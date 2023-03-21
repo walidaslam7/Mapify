@@ -3,8 +3,8 @@
 
 # Mapify - Your Guide to Global Coordinates
 
-[![Build](https://github.com/walidaslam7/Mapify/actions/workflows/dotnet-build.yml/badge.svg)](https://github.com/walidaslam7/Mapify/actions/workflows/dotnet-build.yml)
-[![Super-Linter](https://github.com/walidaslam7/Mapify/actions/workflows/superlinter.yml/badge.svg)](https://github.com/walidaslam7/Mapify/actions/workflows/superlinter.yml)
+[![Build and Test](https://github.com/walidaslam7/Mapify/actions/workflows/dotnet-build.yml/badge.svg?branch=main)](https://github.com/walidaslam7/Mapify/actions/workflows/dotnet-build.yml)
+[![Super-Linter](https://github.com/walidaslam7/Mapify/actions/workflows/superlinter.yml/badge.svg?branch=main)](https://github.com/walidaslam7/Mapify/actions/workflows/superlinter.yml)
 <br/>
 
 This solution provides a Geocoding API for Pakistan cities, which allows developers to easily retrieve the latitude and longitude coordinates of a given city. The API is designed to be simple and easy to use, and it can be integrated into any web or mobile application. In addition to the Geocoding API for Pakistan cities, this solution also contains World Cities JSON files, which provide latitude and longitude coordinates for cities around the world.
