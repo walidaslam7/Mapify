@@ -1,0 +1,3180 @@
+[
+  {
+    "Id": "aa8f2791-d4bf-45df-a645-acd7722095d8",
+    "Country": "PK",
+    "City": "Chuhar Jamali",
+    "Longitude": "67.99298",
+    "Latitude": "24.3944"
+  },
+  {
+    "Id": "023e5dbd-d38e-493c-b3d0-19f2130a5f48",
+    "Country": "PK",
+    "City": "Timargara",
+    "Longitude": "71.84423",
+    "Latitude": "34.82659"
+  },
+  {
+    "Id": "1f4e5b99-e20c-4587-ab3c-9a0eae9f6298",
+    "Country": "PK",
+    "City": "Rawalakot",
+    "Longitude": "73.76043",
+    "Latitude": "33.85782"
+  },
+  {
+    "Id": "f4b94968-fc88-4560-82fd-678e36fb97ad",
+    "Country": "PK",
+    "City": "Pir Jo Goth",
+    "Longitude": "68.61848",
+    "Latitude": "27.59178"
+  },
+  {
+    "Id": "81245819-6f5d-4d39-9f9d-e68f2de095ac",
+    "Country": "PK",
+    "City": "Khairpur Mir’s",
+    "Longitude": "68.75915",
+    "Latitude": "27.52948"
+  },
+  {
+    "Id": "cc7f2350-2be0-408e-b689-3a191ca7aad0",
+    "Country": "PK",
+    "City": "Adilpur",
+    "Longitude": "69.31941",
+    "Latitude": "27.93677"
+  },
+  {
+    "Id": "62a0e6ae-cc5c-470d-88a2-120b127712d5",
+    "Country": "PK",
+    "City": "Ziarat",
+    "Longitude": "67.72562",
+    "Latitude": "30.38244"
+  },
+  {
+    "Id": "cd2b0278-63ee-477d-9bdf-cd0c295726bc",
+    "Country": "PK",
+    "City": "Zhob",
+    "Longitude": "69.4493",
+    "Latitude": "31.34082"
+  },
+  {
+    "Id": "ce064635-28bf-4c92-ba4b-9288fafa60bd",
+    "Country": "PK",
+    "City": "Zaida",
+    "Longitude": "72.4669",
+    "Latitude": "34.0595"
+  },
+  {
+    "Id": "0a297536-75e2-4423-b327-4b400aaa7677",
+    "Country": "PK",
+    "City": "Zahir Pir",
+    "Longitude": "70.52341",
+    "Latitude": "28.81284"
+  },
+  {
+    "Id": "30c52d2a-11e6-45b4-acca-a42a200487ad",
+    "Country": "PK",
+    "City": "Zafarwal",
+    "Longitude": "74.8999",
+    "Latitude": "32.34464"
+  },
+  {
+    "Id": "cd481197-7de7-4fef-a206-b0cc764c0833",
+    "Country": "PK",
+    "City": "Yazman",
+    "Longitude": "71.74459",
+    "Latitude": "29.12122"
+  },
+  {
+    "Id": "79af37bb-1771-4041-94ab-d62c9cd227cf",
+    "Country": "PK",
+    "City": "Wazirabad",
+    "Longitude": "74.12",
+    "Latitude": "32.44324"
+  },
+  {
+    "Id": "75ef2c7a-c99d-4133-b13c-d0afd3dde803",
+    "Country": "PK",
+    "City": "Chak Five Hundred Seventy-five",
+    "Longitude": "73.82891",
+    "Latitude": "31.54514"
+  },
+  {
+    "Id": "029184d5-191c-47fd-8e6f-969f425e6b8a",
+    "Country": "PK",
+    "City": "Warah",
+    "Longitude": "67.79654",
+    "Latitude": "27.44805"
+  },
+  {
+    "Id": "5fff961e-c185-4a33-adc6-19ddca98635e",
+    "Country": "PK",
+    "City": "Wana",
+    "Longitude": "69.5725",
+    "Latitude": "32.29889"
+  },
+  {
+    "Id": "365017ce-3949-46f9-96b2-6923201aacc2",
+    "Country": "PK",
+    "City": "Vihari",
+    "Longitude": "72.3556",
+    "Latitude": "30.0445"
+  },
+  {
+    "Id": "ea3f6064-17bb-402e-bf1e-bc60e5148da1",
+    "Country": "PK",
+    "City": "Utmanzai",
+    "Longitude": "71.76274",
+    "Latitude": "34.18775"
+  },
+  {
+    "Id": "65c9d73c-44f1-4171-8529-b38049d3c6d7",
+    "Country": "PK",
+    "City": "Uthal",
+    "Longitude": "66.62194",
+    "Latitude": "25.80722"
+  },
+  {
+    "Id": "1acdd18a-d763-4db0-b140-a28932227cf8",
+    "Country": "PK",
+    "City": "Usta Muhammad",
+    "Longitude": "68.04367",
+    "Latitude": "28.17723"
+  },
+  {
+    "Id": "d35c6e03-ea4a-471a-9471-760c131653dd",
+    "Country": "PK",
+    "City": "Umarkot",
+    "Longitude": "69.74184",
+    "Latitude": "25.36329"
+  },
+  {
+    "Id": "717fac9f-1731-4c81-916a-a7de38587d90",
+    "Country": "PK",
+    "City": "Ubauro",
+    "Longitude": "69.73114",
+    "Latitude": "28.16429"
+  },
+  {
+    "Id": "4de47c19-bcbb-461c-92da-748645fb8ca6",
+    "Country": "PK",
+    "City": "Turbat",
+    "Longitude": "63.04849",
+    "Latitude": "26.00122"
+  },
+  {
+    "Id": "614aa035-8d36-4e3b-ae83-6d24f29957ee",
+    "Country": "PK",
+    "City": "Tordher",
+    "Longitude": "72.2863",
+    "Latitude": "33.99047"
+  },
+  {
+    "Id": "15558d10-ac81-4132-b366-13800f09fd9f",
+    "Country": "PK",
+    "City": "Topi",
+    "Longitude": "72.62147",
+    "Latitude": "34.07034"
+  },
+  {
+    "Id": "aa5c6c5e-e3d5-4c32-990f-6f11cb9b3fda",
+    "Country": "PK",
+    "City": "Tolti",
+    "Longitude": "76.09213",
+    "Latitude": "35.02819"
+  },
+  {
+    "Id": "1ba7758c-284d-4a4d-9257-35d348bfe2b4",
+    "Country": "PK",
+    "City": "Toba Tek Singh",
+    "Longitude": "72.48275",
+    "Latitude": "30.97127"
+  },
+  {
+    "Id": "12c70d5d-1ca6-4dac-91c7-1780c5da89e8",
+    "Country": "PK",
+    "City": "Thul",
+    "Longitude": "68.7755",
+    "Latitude": "28.2403"
+  },
+  {
+    "Id": "02700025-d5b0-45fe-a4e6-c573d6d42fca",
+    "Country": "PK",
+    "City": "Thatta",
+    "Longitude": "67.92353",
+    "Latitude": "24.74745"
+  },
+  {
+    "Id": "ec476ef9-2f95-4a5b-87df-1ad8a6ec6d6e",
+    "Country": "PK",
+    "City": "Tharu Shah",
+    "Longitude": "68.11759",
+    "Latitude": "26.9423"
+  },
+  {
+    "Id": "f8bd7ace-c810-463b-808f-a07f6208d680",
+    "Country": "PK",
+    "City": "Taunsa",
+    "Longitude": "70.65054",
+    "Latitude": "30.70358"
+  },
+  {
+    "Id": "974c4ab9-66cd-4adf-8a93-56b7a604c638",
+    "Country": "PK",
+    "City": "Tank",
+    "Longitude": "70.38315",
+    "Latitude": "32.21707"
+  },
+  {
+    "Id": "c802436b-fb96-4d54-b8ba-ad64ed2ed41b",
+    "Country": "PK",
+    "City": "Tangwani",
+    "Longitude": "68.9976",
+    "Latitude": "28.27886"
+  },
+  {
+    "Id": "565ab94d-28da-424a-b3bd-694629a23800",
+    "Country": "PK",
+    "City": "Tangi",
+    "Longitude": "71.65238",
+    "Latitude": "34.3009"
+  },
+  {
+    "Id": "baf31f74-082f-4940-8979-552047f845f0",
+    "Country": "PK",
+    "City": "Tando Muhammad Khan",
+    "Longitude": "68.53677",
+    "Latitude": "25.12384"
+  },
+  {
+    "Id": "689bcc9c-d3eb-4fee-b3da-b2cc20e6fe0a",
+    "Country": "PK",
+    "City": "Tando Mitha Khan",
+    "Longitude": "69.20251",
+    "Latitude": "25.99625"
+  },
+  {
+    "Id": "8c8c79ac-55a4-4b4c-b261-aaa3315f2c5d",
+    "Country": "PK",
+    "City": "Tando Jam",
+    "Longitude": "68.52923",
+    "Latitude": "25.42813"
+  },
+  {
+    "Id": "8c5dd035-6a0b-4d95-b6c8-6e2a8d7ee6f7",
+    "Country": "PK",
+    "City": "Tando Bago",
+    "Longitude": "68.96535",
+    "Latitude": "24.78914"
+  },
+  {
+    "Id": "f1dd9c72-c253-4464-94da-ba6a058bcaed",
+    "Country": "PK",
+    "City": "Tando Allahyar",
+    "Longitude": "68.71745",
+    "Latitude": "25.4605"
+  },
+  {
+    "Id": "7d6990bd-7ca2-4d7b-b4e7-0a5453309568",
+    "Country": "PK",
+    "City": "Tando Adam",
+    "Longitude": "68.66196",
+    "Latitude": "25.76818"
+  },
+  {
+    "Id": "9da3195e-23f5-44a9-b4d8-485d634a6f69",
+    "Country": "PK",
+    "City": "Tandlianwala",
+    "Longitude": "73.13268",
+    "Latitude": "31.03359"
+  },
+  {
+    "Id": "d4f18b63-48fa-498f-b730-c8cf066d9af2",
+    "Country": "PK",
+    "City": "Talhar",
+    "Longitude": "68.81437",
+    "Latitude": "24.88454"
+  },
+  {
+    "Id": "1dad232d-4d02-437e-a809-02222d5103d1",
+    "Country": "PK",
+    "City": "Talamba",
+    "Longitude": "72.24079",
+    "Latitude": "30.52693"
+  },
+  {
+    "Id": "b8278448-465b-4544-a855-e1ebf36fbc9b",
+    "Country": "PK",
+    "City": "Talagang",
+    "Longitude": "72.41594",
+    "Latitude": "32.92766"
+  },
+  {
+    "Id": "c5c38bd0-82f0-454b-9968-b5bdcbffd04e",
+    "Country": "PK",
+    "City": "Thal",
+    "Longitude": "72.24383",
+    "Latitude": "35.47836"
+  },
+  {
+    "Id": "e5776782-f345-4fae-a89d-8bd0a708866c",
+    "Country": "PK",
+    "City": "Swabi",
+    "Longitude": "72.46982",
+    "Latitude": "34.12018"
+  },
+  {
+    "Id": "5bcf9de0-ccbc-474f-a5d3-54957c928f7b",
+    "Country": "PK",
+    "City": "Surkhpur",
+    "Longitude": "74.44773",
+    "Latitude": "32.71816"
+  },
+  {
+    "Id": "ea96d653-ecaf-41b7-852d-4352103c4329",
+    "Country": "PK",
+    "City": "Surab",
+    "Longitude": "66.25999",
+    "Latitude": "28.49276"
+  },
+  {
+    "Id": "8dc98798-8920-44c2-98d4-676c45afb85b",
+    "Country": "PK",
+    "City": "Sukkur",
+    "Longitude": "68.85889",
+    "Latitude": "27.70323"
+  },
+  {
+    "Id": "2bfd4656-1f58-4f03-bf5a-ecfb001b1f32",
+    "Country": "PK",
+    "City": "Sukheke Mandi",
+    "Longitude": "73.50875",
+    "Latitude": "31.86541"
+  },
+  {
+    "Id": "34757943-175d-47ad-b0b1-51775065b0af",
+    "Country": "PK",
+    "City": "Sohbatpur",
+    "Longitude": "68.54298",
+    "Latitude": "28.52038"
+  },
+  {
+    "Id": "5e77fb77-3382-4d14-a756-263dccc9cc4a",
+    "Country": "PK",
+    "City": "Sodhri",
+    "Longitude": "74.18207",
+    "Latitude": "32.46211"
+  },
+  {
+    "Id": "396ab8ba-b9e1-4d60-ad35-ec982867f4f3",
+    "Country": "PK",
+    "City": "Sobhodero",
+    "Longitude": "68.39715",
+    "Latitude": "27.30475"
+  },
+  {
+    "Id": "76474b50-ba68-44e7-bc42-bf4d41f238db",
+    "Country": "PK",
+    "City": "Skardu",
+    "Longitude": "75.63372",
+    "Latitude": "35.29787"
+  },
+  {
+    "Id": "9ea49b7f-1229-4e1b-a027-2cbf273afa91",
+    "Country": "PK",
+    "City": "Sita Road",
+    "Longitude": "67.85",
+    "Latitude": "27.03333"
+  },
+  {
+    "Id": "21940d84-378c-41cc-ba53-99a39408d080",
+    "Country": "PK",
+    "City": "Sinjhoro",
+    "Longitude": "68.80867",
+    "Latitude": "26.03008"
+  },
+  {
+    "Id": "0dc4953e-11c8-46be-9ff3-c5c876295359",
+    "Country": "PK",
+    "City": "Sillanwali",
+    "Longitude": "72.54064",
+    "Latitude": "31.82539"
+  },
+  {
+    "Id": "28d70c57-510c-4e4a-8c43-99889e5e4fce",
+    "Country": "PK",
+    "City": "Sibi",
+    "Longitude": "67.87726",
+    "Latitude": "29.54299"
+  },
+  {
+    "Id": "9b98b087-b099-4e3b-90b6-488c8359f332",
+    "Country": "PK",
+    "City": "Sialkot",
+    "Longitude": "74.53134",
+    "Latitude": "32.49268"
+  },
+  {
+    "Id": "ab6cb54d-fd94-4ef1-b4a9-e6745fecf229",
+    "Country": "PK",
+    "City": "Shujaabad",
+    "Longitude": "71.29344",
+    "Latitude": "29.88092"
+  },
+  {
+    "Id": "7e4d0b03-87bb-44a7-80ed-2ff7ae822209",
+    "Country": "PK",
+    "City": "Shorkot",
+    "Longitude": "70.87757",
+    "Latitude": "31.91023"
+  },
+  {
+    "Id": "23b4a12c-6304-4d9e-ac0f-6486595c1714",
+    "Country": "PK",
+    "City": "Shinpokh",
+    "Longitude": "71.17852",
+    "Latitude": "34.32959"
+  },
+  {
+    "Id": "a1bde8dc-46a9-472e-a7bd-16be58624b44",
+    "Country": "PK",
+    "City": "Shikarpur",
+    "Longitude": "68.63823",
+    "Latitude": "27.95558"
+  },
+  {
+    "Id": "02b58d09-1892-4319-b9b8-34ce30ab2184",
+    "Country": "PK",
+    "City": "Shigar",
+    "Longitude": "75.73911",
+    "Latitude": "35.42376"
+  },
+  {
+    "Id": "3c3cacb9-8c14-403c-b8fc-301869355994",
+    "Country": "PK",
+    "City": "Shekhupura",
+    "Longitude": "73.98556",
+    "Latitude": "31.71287"
+  },
+  {
+    "Id": "66f1b2da-458a-4e4d-a324-bc621a4996a7",
+    "Country": "PK",
+    "City": "Sharqpur Sharif",
+    "Longitude": "74.10091",
+    "Latitude": "31.46116"
+  },
+  {
+    "Id": "45b571ce-eb27-4b95-95bc-3332aa03fa80",
+    "Country": "PK",
+    "City": "Shakargarh",
+    "Longitude": "75.16008",
+    "Latitude": "32.26361"
+  },
+  {
+    "Id": "19c48b7c-17ef-43c8-b5b3-13cd2bd75561",
+    "Country": "PK",
+    "City": "Shahr Sultan",
+    "Longitude": "71.02209",
+    "Latitude": "29.57517"
+  },
+  {
+    "Id": "2f84bcbd-cbcc-45ee-b38a-a79c18d94f66",
+    "Country": "PK",
+    "City": "Shahpur Chakar",
+    "Longitude": "68.65013",
+    "Latitude": "26.15411"
+  },
+  {
+    "Id": "c55a8698-852d-43d6-bf89-62d106d45a5f",
+    "Country": "PK",
+    "City": "Shahpur",
+    "Longitude": "72.46884",
+    "Latitude": "32.2682"
+  },
+  {
+    "Id": "3d7404c2-d744-4aa6-909f-314b7543347a",
+    "Country": "PK",
+    "City": "Shahkot",
+    "Longitude": "73.48531",
+    "Latitude": "31.5709"
+  },
+  {
+    "Id": "2c2cf7d3-4217-49e3-99af-6b0c62cc4368",
+    "Country": "PK",
+    "City": "Shahdadpur",
+    "Longitude": "68.6228",
+    "Latitude": "25.92539"
+  },
+  {
+    "Id": "e33ea652-e428-4223-aa49-6a00f019d3fd",
+    "Country": "PK",
+    "City": "Shahdad Kot",
+    "Longitude": "67.90679",
+    "Latitude": "27.84726"
+  },
+  {
+    "Id": "9f64e6ef-f61b-4fe9-82c2-52aa6dcd54c1",
+    "Country": "PK",
+    "City": "Shabqadar",
+    "Longitude": "71.5548",
+    "Latitude": "34.21599"
+  },
+  {
+    "Id": "a5f6515d-c9c1-465d-8c21-11e9c6beb57a",
+    "Country": "PK",
+    "City": "Sehwan",
+    "Longitude": "67.86126",
+    "Latitude": "26.42495"
+  },
+  {
+    "Id": "dfd6b59e-eb48-40e1-aeda-c30ee1b1d10b",
+    "Country": "PK",
+    "City": "Sargodha",
+    "Longitude": "72.67418",
+    "Latitude": "32.08586"
+  },
+  {
+    "Id": "25c2b92c-4eeb-49db-99dd-b043329e2913",
+    "Country": "PK",
+    "City": "Sarai Sidhu",
+    "Longitude": "71.9699",
+    "Latitude": "30.59476"
+  },
+  {
+    "Id": "44da65a4-0875-4179-8dae-7832e4e119e3",
+    "Country": "PK",
+    "City": "Sarai Naurang",
+    "Longitude": "70.78107",
+    "Latitude": "32.82581"
+  },
+  {
+    "Id": "ad1c3dfe-e89f-45b0-bb21-7a391f56bc49",
+    "Country": "PK",
+    "City": "Sarai Alamgir",
+    "Longitude": "73.75518",
+    "Latitude": "32.90495"
+  },
+  {
+    "Id": "4cc38bc2-23f5-43b7-b029-5f2ca0c532ab",
+    "Country": "PK",
+    "City": "Sann",
+    "Longitude": "68.13763",
+    "Latitude": "26.0403"
+  },
+  {
+    "Id": "172f24d3-a96e-433f-b686-538ffc5c96fc",
+    "Country": "PK",
+    "City": "Sanjwal",
+    "Longitude": "72.43315",
+    "Latitude": "33.76105"
+  },
+  {
+    "Id": "9228c878-7835-4771-8f45-2fee58990d05",
+    "Country": "PK",
+    "City": "Sangla Hill",
+    "Longitude": "73.38333",
+    "Latitude": "31.71667"
+  },
+  {
+    "Id": "6ae27544-c81f-4129-be4a-16c094007558",
+    "Country": "PK",
+    "City": "Sanghar",
+    "Longitude": "68.94917",
+    "Latitude": "26.04694"
+  },
+  {
+    "Id": "7b05635a-ea88-46e9-81af-a5f3507aab06",
+    "Country": "PK",
+    "City": "Sambrial",
+    "Longitude": "74.35338",
+    "Latitude": "32.47835"
+  },
+  {
+    "Id": "d6a62483-9bdc-4216-95a1-9bb128aa8ad4",
+    "Country": "PK",
+    "City": "Samaro",
+    "Longitude": "69.39623",
+    "Latitude": "25.28143"
+  },
+  {
+    "Id": "be0a2ed1-167c-47d5-a509-27fd1740bd06",
+    "Country": "PK",
+    "City": "Sakrand",
+    "Longitude": "68.27444",
+    "Latitude": "26.13845"
+  },
+  {
+    "Id": "f83d662a-e969-4cf7-b051-7389c09368ae",
+    "Country": "PK",
+    "City": "Saidu Sharif",
+    "Longitude": "72.35568",
+    "Latitude": "34.74655"
+  },
+  {
+    "Id": "199d25a0-111a-4080-8830-4f6b7bbdea23",
+    "Country": "PK",
+    "City": "Sahiwal",
+    "Longitude": "72.33109",
+    "Latitude": "31.97386"
+  },
+  {
+    "Id": "257ab157-3eef-4767-9f69-dc30d2fb175d",
+    "Country": "PK",
+    "City": "Sahiwal",
+    "Longitude": "73.10186",
+    "Latitude": "30.66595"
+  },
+  {
+    "Id": "36aedd81-b593-43aa-bba6-051bf6897002",
+    "Country": "PK",
+    "City": "Saddiqabad",
+    "Longitude": "70.12652",
+    "Latitude": "28.3091"
+  },
+  {
+    "Id": "31387c0a-1846-406e-b61a-cdfc10465f98",
+    "Country": "PK",
+    "City": "Rustam",
+    "Longitude": "68.80386",
+    "Latitude": "27.96705"
+  },
+  {
+    "Id": "429a1be2-5f3e-46df-9f99-cb5cc854c50e",
+    "Country": "PK",
+    "City": "Rojhan",
+    "Longitude": "69.9535",
+    "Latitude": "28.68735"
+  },
+  {
+    "Id": "dcd37cea-763e-45c7-9349-d45ac58260db",
+    "Country": "PK",
+    "City": "Rohri",
+    "Longitude": "68.89503",
+    "Latitude": "27.69203"
+  },
+  {
+    "Id": "0b06b383-df24-4946-b865-c77d7df05f95",
+    "Country": "PK",
+    "City": "Renala Khurd",
+    "Longitude": "73.59857",
+    "Latitude": "30.87878"
+  },
+  {
+    "Id": "26d81e55-e751-4342-aedd-8eab7203295d",
+    "Country": "PK",
+    "City": "Rawalpindi",
+    "Longitude": "73.0479",
+    "Latitude": "33.59733"
+  },
+  {
+    "Id": "0a2b63dd-ac6c-4465-b6bc-fab4f79faba6",
+    "Country": "PK",
+    "City": "Ratodero",
+    "Longitude": "68.28902",
+    "Latitude": "27.80227"
+  },
+  {
+    "Id": "ee2c34bb-cf93-4305-8582-cd2a0c8d05dd",
+    "Country": "PK",
+    "City": "Rasulnagar",
+    "Longitude": "73.7804",
+    "Latitude": "32.32794"
+  },
+  {
+    "Id": "58b9d7ef-6333-4c14-8a64-7686116ea87c",
+    "Country": "PK",
+    "City": "Ranipur",
+    "Longitude": "68.50623",
+    "Latitude": "27.2872"
+  },
+  {
+    "Id": "b0a84650-da11-4ded-bb3d-17008d531709",
+    "Country": "PK",
+    "City": "Rajo Khanani",
+    "Longitude": "68.8537",
+    "Latitude": "24.98391"
+  },
+  {
+    "Id": "765e2ea8-bb0c-4651-8b74-92b5e5874d11",
+    "Country": "PK",
+    "City": "Rajanpur",
+    "Longitude": "70.32969",
+    "Latitude": "29.10408"
+  },
+  {
+    "Id": "efa79b93-a6b0-46b9-87ca-436403f6cfdc",
+    "Country": "PK",
+    "City": "Raja Jang",
+    "Longitude": "74.25483",
+    "Latitude": "31.22078"
+  },
+  {
+    "Id": "dec032a4-ab4b-4cd0-902d-1bd67fbfe55d",
+    "Country": "PK",
+    "City": "Raiwind",
+    "Longitude": "74.21534",
+    "Latitude": "31.24895"
+  },
+  {
+    "Id": "5b7babef-5bf9-47a0-a285-542d3949fcd8",
+    "Country": "PK",
+    "City": "Rahim Yar Khan",
+    "Longitude": "70.30345",
+    "Latitude": "28.41987"
+  },
+  {
+    "Id": "a5961a85-b58e-422a-bdff-2048b6a694c8",
+    "Country": "PK",
+    "City": "Goth Radhan",
+    "Longitude": "67.95348",
+    "Latitude": "27.19846"
+  },
+  {
+    "Id": "244527a5-2dac-44fd-9085-e677d70bb2b4",
+    "Country": "PK",
+    "City": "Chenab Nagar",
+    "Longitude": "72.91403",
+    "Latitude": "31.75511"
+  },
+  {
+    "Id": "856c246b-bdd3-41ee-9995-87846733d47f",
+    "Country": "PK",
+    "City": "Quetta",
+    "Longitude": "67.00141",
+    "Latitude": "30.18414"
+  },
+  {
+    "Id": "1494d26d-6224-434c-9204-ca224d42bd6b",
+    "Country": "PK",
+    "City": "Qila Saifullah",
+    "Longitude": "68.35984",
+    "Latitude": "30.70077"
+  },
+  {
+    "Id": "cdf5a21d-a001-43b7-b15d-46d94e610b75",
+    "Country": "PK",
+    "City": "Qila Abdullah",
+    "Longitude": "66.66117",
+    "Latitude": "30.72803"
+  },
+  {
+    "Id": "7d5dc31d-5616-44af-925e-0385c24c15eb",
+    "Country": "PK",
+    "City": "Kambar",
+    "Longitude": "68.00066",
+    "Latitude": "27.58753"
+  },
+  {
+    "Id": "d17bcc97-3fba-4bd6-87ed-b3895310d06f",
+    "Country": "PK",
+    "City": "Qadirpur Ran",
+    "Longitude": "71.67164",
+    "Latitude": "30.29184"
+  },
+  {
+    "Id": "751176f2-c2c2-44a8-bb0d-c39ac77975fc",
+    "Country": "PK",
+    "City": "Pithoro",
+    "Longitude": "69.37803",
+    "Latitude": "25.51122"
+  },
+  {
+    "Id": "020a4dda-94a8-465c-a969-8627fe1d8caf",
+    "Country": "PK",
+    "City": "Pishin",
+    "Longitude": "66.99406",
+    "Latitude": "30.58176"
+  },
+  {
+    "Id": "c4c71f14-c5fe-4c07-967c-be90c5928e6a",
+    "Country": "PK",
+    "City": "Pir Mahal",
+    "Longitude": "72.43455",
+    "Latitude": "30.76663"
+  },
+  {
+    "Id": "dce36a58-8e10-492f-9f37-4e835815f731",
+    "Country": "PK",
+    "City": "Pindi Gheb",
+    "Longitude": "72.2648",
+    "Latitude": "33.24095"
+  },
+  {
+    "Id": "cee99894-bbbd-4149-9405-d2630163c00e",
+    "Country": "PK",
+    "City": "Pindi Bhattian",
+    "Longitude": "73.27339",
+    "Latitude": "31.89844"
+  },
+  {
+    "Id": "97a2a078-b324-42d3-b957-0963417686de",
+    "Country": "PK",
+    "City": "Pind Dadan Khan",
+    "Longitude": "73.04456",
+    "Latitude": "32.58662"
+  },
+  {
+    "Id": "3514d69a-1878-4d44-b9f5-f69508e34d3c",
+    "Country": "PK",
+    "City": "Goth Phulji",
+    "Longitude": "67.68239",
+    "Latitude": "26.88099"
+  },
+  {
+    "Id": "ca4b9f65-8662-49c8-89c9-3d1f6f771398",
+    "Country": "PK",
+    "City": "Phalia",
+    "Longitude": "73.579",
+    "Latitude": "32.43104"
+  },
+  {
+    "Id": "dc8281e7-12ad-4e82-b97c-f80b42cab471",
+    "Country": "PK",
+    "City": "Peshawar",
+    "Longitude": "71.57849",
+    "Latitude": "34.008"
+  },
+  {
+    "Id": "f62fb319-0205-4c8f-a817-8a0dd292924b",
+    "Country": "PK",
+    "City": "Pattoki",
+    "Longitude": "73.85333",
+    "Latitude": "31.02021"
+  },
+  {
+    "Id": "043aa08c-0123-43dc-a893-8986e863a36e",
+    "Country": "PK",
+    "City": "Patan",
+    "Longitude": "73.00781",
+    "Latitude": "35.10964"
+  },
+  {
+    "Id": "bb27e587-d57b-4e2c-9755-889549bf3c9b",
+    "Country": "PK",
+    "City": "Pasrur",
+    "Longitude": "74.66327",
+    "Latitude": "32.26286"
+  },
+  {
+    "Id": "000f0224-ffe2-4616-8216-ad61ceab0719",
+    "Country": "PK",
+    "City": "Pasni",
+    "Longitude": "63.46921",
+    "Latitude": "25.26302"
+  },
+  {
+    "Id": "2030fcb0-1368-4863-a5b8-61f62c9e9053",
+    "Country": "PK",
+    "City": "Parachinar",
+    "Longitude": "70.10012",
+    "Latitude": "33.89968"
+  },
+  {
+    "Id": "79fe8df8-6077-42fc-83d8-c953c838c8c6",
+    "Country": "PK",
+    "City": "Pano Aqil",
+    "Longitude": "69.11111",
+    "Latitude": "27.85619"
+  },
+  {
+    "Id": "b43b5ab1-a1a6-4a53-946b-8c8d88bc4b20",
+    "Country": "PK",
+    "City": "Panjgur",
+    "Longitude": "64.09459",
+    "Latitude": "26.97186"
+  },
+  {
+    "Id": "b6066bd4-1fec-41a8-ae3b-090833becefd",
+    "Country": "PK",
+    "City": "Pallandri",
+    "Longitude": "73.68366",
+    "Latitude": "33.71527"
+  },
+  {
+    "Id": "b9786e5e-282e-4930-9fd0-1e799642d96b",
+    "Country": "PK",
+    "City": "Pakpattan",
+    "Longitude": "73.38944",
+    "Latitude": "30.34314"
+  },
+  {
+    "Id": "4121c5e8-ef09-421c-ba20-ee90af503078",
+    "Country": "PK",
+    "City": "Paharpur",
+    "Longitude": "70.97055",
+    "Latitude": "32.10502"
+  },
+  {
+    "Id": "bf691813-6e83-4b51-92a4-3f33c6dba49b",
+    "Country": "PK",
+    "City": "Pad Idan",
+    "Longitude": "68.30094",
+    "Latitude": "26.77455"
+  },
+  {
+    "Id": "52466b3a-c515-455e-83da-f4374c9859c5",
+    "Country": "PK",
+    "City": "Pabbi",
+    "Longitude": "71.79445",
+    "Latitude": "34.00968"
+  },
+  {
+    "Id": "56418dce-a748-4731-9ff3-a12bbf261ea2",
+    "Country": "PK",
+    "City": "Ormara",
+    "Longitude": "64.63626",
+    "Latitude": "25.21018"
+  },
+  {
+    "Id": "f5999d9d-31e6-4b2e-83af-c6016b045c8d",
+    "Country": "PK",
+    "City": "Okara",
+    "Longitude": "73.45155",
+    "Latitude": "30.81029"
+  },
+  {
+    "Id": "09336e2d-b36b-433c-a8f3-ce0fa8e6a9b4",
+    "Country": "PK",
+    "City": "Nushki",
+    "Longitude": "66.02288",
+    "Latitude": "29.55218"
+  },
+  {
+    "Id": "37fca4fa-9cd7-4167-af3c-aaf14f2bc40f",
+    "Country": "PK",
+    "City": "Nowshera",
+    "Longitude": "71.98123",
+    "Latitude": "34.01583"
+  },
+  {
+    "Id": "c48a78ed-5b2c-4984-9451-02f163bc4a07",
+    "Country": "PK",
+    "City": "New Mirpur",
+    "Longitude": "73.75187",
+    "Latitude": "33.14782"
+  },
+  {
+    "Id": "6b788368-733c-4d04-b2e1-4280ca845d53",
+    "Country": "PK",
+    "City": "Nawabshah",
+    "Longitude": "68.40369",
+    "Latitude": "26.23939"
+  },
+  {
+    "Id": "c16997c1-70d5-4569-ade7-8c43ed4bd277",
+    "Country": "PK",
+    "City": "Naushahro Firoz",
+    "Longitude": "68.12265",
+    "Latitude": "26.8401"
+  },
+  {
+    "Id": "090f6705-c6a3-4c39-b078-6747d42e2358",
+    "Country": "PK",
+    "City": "Naushahra Virkan",
+    "Longitude": "73.97117",
+    "Latitude": "31.96258"
+  },
+  {
+    "Id": "094a8249-6007-4631-a02e-ab2f3e0bfcbf",
+    "Country": "PK",
+    "City": "Naudero",
+    "Longitude": "68.3609",
+    "Latitude": "27.66684"
+  },
+  {
+    "Id": "6af4c208-fdba-4dd7-ae61-59858f81be83",
+    "Country": "PK",
+    "City": "Nasirabad",
+    "Longitude": "67.91644",
+    "Latitude": "27.38137"
+  },
+  {
+    "Id": "39839666-e8d0-47ee-9e6f-b28750b10efd",
+    "Country": "PK",
+    "City": "Narowal",
+    "Longitude": "74.87303",
+    "Latitude": "32.10197"
+  },
+  {
+    "Id": "0bb7af2f-b73a-4781-8f92-53d0e1f70fdc",
+    "Country": "PK",
+    "City": "Narang Mandi",
+    "Longitude": "74.51587",
+    "Latitude": "31.90376"
+  },
+  {
+    "Id": "aacb3329-d3ca-4142-a457-eef605d2307f",
+    "Country": "PK",
+    "City": "Naukot",
+    "Longitude": "69.40153",
+    "Latitude": "24.85822"
+  },
+  {
+    "Id": "983f5f1d-2de8-4d1f-b006-57a70e04f982",
+    "Country": "PK",
+    "City": "Nankana Sahib",
+    "Longitude": "73.70653",
+    "Latitude": "31.4501"
+  },
+  {
+    "Id": "a46dd4d5-7ac7-41be-8471-4b0434d0bdde",
+    "Country": "PK",
+    "City": "Nagir",
+    "Longitude": "74.71959",
+    "Latitude": "36.27542"
+  },
+  {
+    "Id": "af1792d6-44fb-4eb6-95a5-2c2545c431ef",
+    "Country": "PK",
+    "City": "Nabisar",
+    "Longitude": "69.6434",
+    "Latitude": "25.06717"
+  },
+  {
+    "Id": "dac3220d-0a49-4ae2-9db9-de9178107ce4",
+    "Country": "PK",
+    "City": "Muzaffargarh",
+    "Longitude": "71.19379",
+    "Latitude": "30.07258"
+  },
+  {
+    "Id": "f6c60822-6c35-48f1-8305-4d8f63dfc4b0",
+    "Country": "PK",
+    "City": "Muzaffarābād",
+    "Longitude": "73.47082",
+    "Latitude": "34.37002"
+  },
+  {
+    "Id": "947241bd-c0a0-440b-b34e-ea53a588813d",
+    "Country": "PK",
+    "City": "Mustafabad",
+    "Longitude": "73.49889",
+    "Latitude": "30.89222"
+  },
+  {
+    "Id": "474689d3-4901-411f-a4aa-93d700181011",
+    "Country": "PK",
+    "City": "Musa Khel Bazar",
+    "Longitude": "69.82208",
+    "Latitude": "30.85944"
+  },
+  {
+    "Id": "d231b6f5-252b-4eff-8672-cf979bb62813",
+    "Country": "PK",
+    "City": "Murree",
+    "Longitude": "73.3903",
+    "Latitude": "33.90836"
+  },
+  {
+    "Id": "bd8db6cb-d9a3-4f68-a2e5-687749116321",
+    "Country": "PK",
+    "City": "Muridke",
+    "Longitude": "74.25772",
+    "Latitude": "31.80258"
+  },
+  {
+    "Id": "f62ba12c-0c14-4a19-aefa-afc74a736378",
+    "Country": "PK",
+    "City": "Multan",
+    "Longitude": "71.47824",
+    "Latitude": "30.19679"
+  },
+  {
+    "Id": "fbe9d85f-976b-450f-9444-f42cbf377432",
+    "Country": "PK",
+    "City": "Moro",
+    "Longitude": "68.00016",
+    "Latitude": "26.66317"
+  },
+  {
+    "Id": "73695511-f8d7-4b17-b483-5fc300821f0d",
+    "Country": "PK",
+    "City": "Mithi",
+    "Longitude": "69.79707",
+    "Latitude": "24.73701"
+  },
+  {
+    "Id": "ac7ddd51-811c-4e5b-9911-8ba651d0f5ab",
+    "Country": "PK",
+    "City": "Mitha Tiwana",
+    "Longitude": "72.10615",
+    "Latitude": "32.2454"
+  },
+  {
+    "Id": "caec9a07-b726-4727-9469-8fdf8f360b33",
+    "Country": "PK",
+    "City": "Mirwah Gorchani",
+    "Longitude": "69.05019",
+    "Latitude": "25.30981"
+  },
+  {
+    "Id": "c7a87d63-b7ce-4c27-a918-ea3e91cebe83",
+    "Country": "PK",
+    "City": "Mirpur Sakro",
+    "Longitude": "67.62797",
+    "Latitude": "24.54692"
+  },
+  {
+    "Id": "d65dbdc9-5926-44a0-959e-083aca877297",
+    "Country": "PK",
+    "City": "Mirpur Mathelo",
+    "Longitude": "69.54914",
+    "Latitude": "28.02136"
+  },
+  {
+    "Id": "4c608496-0d0b-4f22-85ae-674236a45a89",
+    "Country": "PK",
+    "City": "Mirpur Khas",
+    "Longitude": "69.01255",
+    "Latitude": "25.5276"
+  },
+  {
+    "Id": "a98e6156-2fd9-4e2a-9b8b-e31f93fc157f",
+    "Country": "PK",
+    "City": "Mirpur Bhtoro",
+    "Longitude": "68.2601",
+    "Latitude": "24.72852"
+  },
+  {
+    "Id": "1c2a77b3-4ff4-40e4-a17b-a9291e34f82f",
+    "Country": "PK",
+    "City": "Miro Khan",
+    "Longitude": "68.09195",
+    "Latitude": "27.75985"
+  },
+  {
+    "Id": "2818c3a3-8d4a-47ea-8c98-533afa542111",
+    "Country": "PK",
+    "City": "Miran Shah",
+    "Longitude": "70.07117",
+    "Latitude": "33.00059"
+  },
+  {
+    "Id": "d6b639fe-ade7-4a59-bc53-670b8733b79f",
+    "Country": "PK",
+    "City": "Mingora",
+    "Longitude": "72.36265",
+    "Latitude": "34.7795"
+  },
+  {
+    "Id": "899899ac-3a84-49ec-a32c-c5f0178cb2ec",
+    "Country": "PK",
+    "City": "Minchianabad",
+    "Longitude": "73.56858",
+    "Latitude": "30.16356"
+  },
+  {
+    "Id": "f5224b97-830f-4a88-84f7-4f09d5921e0e",
+    "Country": "PK",
+    "City": "Mianwali",
+    "Longitude": "71.52847",
+    "Latitude": "32.57756"
+  },
+  {
+    "Id": "cf5c6856-5d91-435a-a6a4-bc83711d3b3f",
+    "Country": "PK",
+    "City": "Mian Channun",
+    "Longitude": "72.35679",
+    "Latitude": "30.44067"
+  },
+  {
+    "Id": "e8db1a84-5bad-4616-a565-5fe7e0b33ba4",
+    "Country": "PK",
+    "City": "Mehrabpur",
+    "Longitude": "68.02554",
+    "Latitude": "28.10773"
+  },
+  {
+    "Id": "dc4effa3-9e96-4a18-87a3-2ffb694b9047",
+    "Country": "PK",
+    "City": "Mehar",
+    "Longitude": "67.82051",
+    "Latitude": "27.18027"
+  },
+  {
+    "Id": "350b1f4f-b014-4125-8d45-667691325680",
+    "Country": "PK",
+    "City": "Matli",
+    "Longitude": "68.65591",
+    "Latitude": "25.0429"
+  },
+  {
+    "Id": "c1ecdc6d-a1e9-4ff3-a641-6c3030d15c4c",
+    "Country": "PK",
+    "City": "Matiari",
+    "Longitude": "68.4467",
+    "Latitude": "25.59709"
+  },
+  {
+    "Id": "7cb364f8-6874-4c38-b94f-d8bdf4ac0204",
+    "Country": "PK",
+    "City": "Mastung",
+    "Longitude": "66.84553",
+    "Latitude": "29.79966"
+  },
+  {
+    "Id": "6bd71cfc-4c10-4807-9d0b-e90ebb0f051d",
+    "Country": "PK",
+    "City": "Mardan",
+    "Longitude": "72.04965",
+    "Latitude": "34.19794"
+  },
+  {
+    "Id": "39d77c25-f967-47b2-957b-4336c7216f14",
+    "Country": "PK",
+    "City": "Mansehra",
+    "Longitude": "73.19679",
+    "Latitude": "34.33023"
+  },
+  {
+    "Id": "0c5ea2ae-2ae4-4b8f-99b8-f8d35da73f04",
+    "Country": "PK",
+    "City": "Mankera",
+    "Longitude": "71.44047",
+    "Latitude": "31.38771"
+  },
+  {
+    "Id": "3471cec1-9286-4ae2-9e1b-0a23a0d33c6c",
+    "Country": "PK",
+    "City": "Mangla",
+    "Longitude": "72.38167",
+    "Latitude": "31.89306"
+  },
+  {
+    "Id": "29548601-0270-469c-8011-27443b41129b",
+    "Country": "PK",
+    "City": "Mandi Bahauddin",
+    "Longitude": "73.49123",
+    "Latitude": "32.58704"
+  },
+  {
+    "Id": "b158e100-5889-4ee6-a764-5cf4ec4f6772",
+    "Country": "PK",
+    "City": "Mananwala",
+    "Longitude": "73.68927",
+    "Latitude": "31.58803"
+  },
+  {
+    "Id": "14f1e94f-0a0e-42f8-a22e-6112dd9f3a0e",
+    "Country": "PK",
+    "City": "Mamu Kanjan",
+    "Longitude": "72.79943",
+    "Latitude": "30.83044"
+  },
+  {
+    "Id": "4a455067-3b90-4b41-a174-8eeb20c2f520",
+    "Country": "PK",
+    "City": "Malir Cantonment",
+    "Longitude": "67.20591",
+    "Latitude": "24.94343"
+  },
+  {
+    "Id": "7f7bb61a-9413-41aa-8611-87aaed0b77e6",
+    "Country": "PK",
+    "City": "Malakwal",
+    "Longitude": "73.21274",
+    "Latitude": "32.55449"
+  },
+  {
+    "Id": "9a1951dc-5c1b-4847-b35e-3558ab3325fb",
+    "Country": "PK",
+    "City": "Malakand",
+    "Longitude": "71.93043",
+    "Latitude": "34.56561"
+  },
+  {
+    "Id": "25b262dc-669f-41ea-8bb4-102a601315b2",
+    "Country": "PK",
+    "City": "Mailsi",
+    "Longitude": "72.17398",
+    "Latitude": "29.80123"
+  },
+  {
+    "Id": "4fcb0bcc-3567-47d4-8a08-9a296da84b73",
+    "Country": "PK",
+    "City": "Madeji",
+    "Longitude": "68.45166",
+    "Latitude": "27.75314"
+  },
+  {
+    "Id": "36008da2-494e-4b8c-b7f0-9ed1fe2d49dc",
+    "Country": "PK",
+    "City": "Mach",
+    "Longitude": "67.33018",
+    "Latitude": "29.86371"
+  },
+  {
+    "Id": "1cf6d40d-b998-4578-8d85-5103ad085b4e",
+    "Country": "PK",
+    "City": "Loralai",
+    "Longitude": "68.59795",
+    "Latitude": "30.37051"
+  },
+  {
+    "Id": "eb0b5536-a6df-4ce6-b316-c664bbcb6416",
+    "Country": "PK",
+    "City": "Lodhran",
+    "Longitude": "71.63244",
+    "Latitude": "29.5339"
+  },
+  {
+    "Id": "c37dce78-46a0-4220-8bec-61c9e4f89a42",
+    "Country": "PK",
+    "City": "Liliani",
+    "Longitude": "72.9512",
+    "Latitude": "32.20393"
+  },
+  {
+    "Id": "dea5f09f-af57-470e-b8a5-cc136a8dbd6b",
+    "Country": "PK",
+    "City": "Layyah",
+    "Longitude": "70.93904",
+    "Latitude": "30.96128"
+  },
+  {
+    "Id": "5da8d5d5-59e3-49a6-ae3a-c0b2614001ed",
+    "Country": "PK",
+    "City": "Larkana",
+    "Longitude": "68.21204",
+    "Latitude": "27.55898"
+  },
+  {
+    "Id": "f964eb90-e7b8-478d-a776-f34c569f1cc2",
+    "Country": "PK",
+    "City": "Landi Kotal",
+    "Longitude": "71.14108",
+    "Latitude": "34.0988"
+  },
+  {
+    "Id": "78d55022-735a-4c19-9dfd-95a8aeb5ba48",
+    "Country": "PK",
+    "City": "Lalian",
+    "Longitude": "72.80116",
+    "Latitude": "31.82462"
+  },
+  {
+    "Id": "0f5094da-218b-4409-a884-2d3425fd7e0c",
+    "Country": "PK",
+    "City": "Lala Musa",
+    "Longitude": "73.95746",
+    "Latitude": "32.70138"
+  },
+  {
+    "Id": "0ceff9e4-44f6-4b92-9a77-8eae7b971ecb",
+    "Country": "PK",
+    "City": "Lakki",
+    "Longitude": "70.91234",
+    "Latitude": "32.60724"
+  },
+  {
+    "Id": "bb849b85-e4db-4831-ac51-c158162ff110",
+    "Country": "PK",
+    "City": "Lakhi",
+    "Longitude": "68.69972",
+    "Latitude": "27.84884"
+  },
+  {
+    "Id": "bb7b1253-1afe-45bf-8f3b-79741f7bac82",
+    "Country": "PK",
+    "City": "Lahore",
+    "Longitude": "74.35071",
+    "Latitude": "31.558"
+  },
+  {
+    "Id": "784abdaf-19fe-42df-b376-e48b936e7207",
+    "Country": "PK",
+    "City": "Ladhewala Waraich",
+    "Longitude": "74.11564",
+    "Latitude": "32.15692"
+  },
+  {
+    "Id": "f3ffac64-3275-4b39-bd26-5555bf2ed94c",
+    "Country": "PK",
+    "City": "Lachi",
+    "Longitude": "71.33733",
+    "Latitude": "33.38291"
+  },
+  {
+    "Id": "2ac26059-dce3-42c9-9d5d-7ce1498b6afb",
+    "Country": "PK",
+    "City": "Kunri",
+    "Longitude": "69.56572",
+    "Latitude": "25.17874"
+  },
+  {
+    "Id": "b8a368cb-3d40-41a2-b6d1-683959dc1f42",
+    "Country": "PK",
+    "City": "Kunjah",
+    "Longitude": "73.97486",
+    "Latitude": "32.52982"
+  },
+  {
+    "Id": "eef410f1-6555-4041-9bdb-bee400aaf696",
+    "Country": "PK",
+    "City": "Kundian",
+    "Longitude": "71.47892",
+    "Latitude": "32.45775"
+  },
+  {
+    "Id": "d6a342ce-2049-4697-a722-33085f339ab1",
+    "Country": "PK",
+    "City": "Kulachi",
+    "Longitude": "70.45959",
+    "Latitude": "31.93058"
+  },
+  {
+    "Id": "8a85dbae-03e4-4d46-9cbf-9b16114da9dd",
+    "Country": "PK",
+    "City": "Kot Sultan",
+    "Longitude": "70.93125",
+    "Latitude": "30.7737"
+  },
+  {
+    "Id": "189e032b-ff43-4d9f-b5ce-4303d4f0fed3",
+    "Country": "PK",
+    "City": "Kot Samaba",
+    "Longitude": "70.46837",
+    "Latitude": "28.55207"
+  },
+  {
+    "Id": "55dfe93c-9bdf-4554-8a9f-f6bac07cb418",
+    "Country": "PK",
+    "City": "Kotri",
+    "Longitude": "68.30831",
+    "Latitude": "25.36566"
+  },
+  {
+    "Id": "1871dd81-5974-40e0-8556-630e1daeb825",
+    "Country": "PK",
+    "City": "Kot Rajkour",
+    "Longitude": "74.62855",
+    "Latitude": "32.41208"
+  },
+  {
+    "Id": "62f207fb-8d35-4c95-b0d1-019f9228c705",
+    "Country": "PK",
+    "City": "Kot Radha Kishan",
+    "Longitude": "74.10126",
+    "Latitude": "31.17068"
+  },
+  {
+    "Id": "148f8f4a-a23e-445e-8849-860cbf09b7d2",
+    "Country": "PK",
+    "City": "Kot Mumin",
+    "Longitude": "73.02987",
+    "Latitude": "32.18843"
+  },
+  {
+    "Id": "73593b73-f2c3-4ce9-921f-f891bbebad32",
+    "Country": "PK",
+    "City": "Kot Malik Barkhurdar",
+    "Longitude": "66.98723",
+    "Latitude": "30.20379"
+  },
+  {
+    "Id": "d13435a3-8729-495a-bb5d-04c494cea93f",
+    "Country": "PK",
+    "City": "Kotli Loharan",
+    "Longitude": "74.49466",
+    "Latitude": "32.58893"
+  },
+  {
+    "Id": "1b211203-56c7-410f-98dd-6dac0dc8f17a",
+    "Country": "PK",
+    "City": "Kotli",
+    "Longitude": "73.9022",
+    "Latitude": "33.51836"
+  },
+  {
+    "Id": "a9e92e28-ba5b-4327-83ff-b52a6e7a659d",
+    "Country": "PK",
+    "City": "Kot Ghulam Muhammad",
+    "Longitude": "74.54694",
+    "Latitude": "32.33311"
+  },
+  {
+    "Id": "6c66bd21-92f5-4821-9c6f-94554c29991d",
+    "Country": "PK",
+    "City": "Kot Diji",
+    "Longitude": "68.70821",
+    "Latitude": "27.34156"
+  },
+  {
+    "Id": "addcab17-b116-4bd5-b8a7-efc11e1508a2",
+    "Country": "PK",
+    "City": "Kot Addu",
+    "Longitude": "70.96699",
+    "Latitude": "30.46907"
+  },
+  {
+    "Id": "3a435a76-f0e5-429d-949a-d609527c60eb",
+    "Country": "PK",
+    "City": "Kohlu",
+    "Longitude": "69.25324",
+    "Latitude": "29.89651"
+  },
+  {
+    "Id": "18d76315-897b-44e9-bc22-82b8faa3fe3f",
+    "Country": "PK",
+    "City": "Kohat",
+    "Longitude": "71.44929",
+    "Latitude": "33.58196"
+  },
+  {
+    "Id": "ce710d4c-9db1-45a9-b75f-a19f69937b6d",
+    "Country": "PK",
+    "City": "Khuzdar",
+    "Longitude": "66.61096",
+    "Latitude": "27.81193"
+  },
+  {
+    "Id": "bf273848-769a-4d3c-837a-560927293eea",
+    "Country": "PK",
+    "City": "Khushāb",
+    "Longitude": "72.3525",
+    "Latitude": "32.29667"
+  },
+  {
+    "Id": "3668b2c8-81cb-401c-b32f-129c4c133626",
+    "Country": "PK",
+    "City": "Khurrianwala",
+    "Longitude": "73.26763",
+    "Latitude": "31.49936"
+  },
+  {
+    "Id": "2a1dc60e-e68d-406b-b886-f7823b72b6ea",
+    "Country": "PK",
+    "City": "Khewra",
+    "Longitude": "73.01059",
+    "Latitude": "32.6491"
+  },
+  {
+    "Id": "6e2b6396-5abe-4f51-ac11-6f499a694fe0",
+    "Country": "PK",
+    "City": "Kharian",
+    "Longitude": "73.88697",
+    "Latitude": "32.81612"
+  },
+  {
+    "Id": "48177100-aecf-438d-954f-bc9bfcb8263d",
+    "Country": "PK",
+    "City": "Kharan",
+    "Longitude": "65.41501",
+    "Latitude": "28.58459"
+  },
+  {
+    "Id": "552749f1-413d-401b-8551-566765d00700",
+    "Country": "PK",
+    "City": "Karak",
+    "Longitude": "71.09354",
+    "Latitude": "33.11633"
+  },
+  {
+    "Id": "51459cf3-6726-4176-8a86-333f163d8739",
+    "Country": "PK",
+    "City": "Khaplu",
+    "Longitude": "76.33381",
+    "Latitude": "35.16221"
+  },
+  {
+    "Id": "cd23028c-a7ea-4cc6-9743-4cd825552bf7",
+    "Country": "PK",
+    "City": "Khanpur",
+    "Longitude": "70.65694",
+    "Latitude": "28.64739"
+  },
+  {
+    "Id": "799efc8d-10db-42c9-b009-ae03278cf3ba",
+    "Country": "PK",
+    "City": "Khanpur Mahar",
+    "Longitude": "69.41302",
+    "Latitude": "27.84088"
+  },
+  {
+    "Id": "26768631-04b9-4717-ab73-7afa07c95757",
+    "Country": "PK",
+    "City": "Khangarh",
+    "Longitude": "71.16067",
+    "Latitude": "29.91446"
+  },
+  {
+    "Id": "343ec6b7-ce3a-43a4-9c7d-3baefc2f7abf",
+    "Country": "PK",
+    "City": "Khangah Dogran",
+    "Longitude": "73.62213",
+    "Latitude": "31.83294"
+  },
+  {
+    "Id": "a46ac980-7316-478c-b730-26b84a23303b",
+    "Country": "PK",
+    "City": "Khanewal",
+    "Longitude": "71.93212",
+    "Latitude": "30.30173"
+  },
+  {
+    "Id": "f1f5c2cc-0e4b-4b8d-909b-20aaf4f9234f",
+    "Country": "PK",
+    "City": "Khandowa",
+    "Longitude": "72.73478",
+    "Latitude": "32.74255"
+  },
+  {
+    "Id": "a354d002-d43e-4134-a43a-57b393806076",
+    "Country": "PK",
+    "City": "Khalabat",
+    "Longitude": "72.88963",
+    "Latitude": "34.05997"
+  },
+  {
+    "Id": "b45077eb-9f5d-4a6b-a5cc-6e1bb9b23e04",
+    "Country": "PK",
+    "City": "Khairpur Nathan Shah",
+    "Longitude": "67.73489",
+    "Latitude": "27.09064"
+  },
+  {
+    "Id": "302b208c-d045-45eb-b669-45c918472e20",
+    "Country": "PK",
+    "City": "Khairpur Tamewah",
+    "Longitude": "72.23804",
+    "Latitude": "29.58139"
+  },
+  {
+    "Id": "16e3fa28-b374-49b0-931c-fad6b19bbc82",
+    "Country": "PK",
+    "City": "Khairpur",
+    "Longitude": "69.70363",
+    "Latitude": "28.06437"
+  },
+  {
+    "Id": "836cee64-1dc1-477a-aeb8-aa993dbb7229",
+    "Country": "PK",
+    "City": "Khadro",
+    "Longitude": "68.71777",
+    "Latitude": "26.14713"
+  },
+  {
+    "Id": "b8f53204-38b8-49de-affc-366282631c8f",
+    "Country": "PK",
+    "City": "Keti Bandar",
+    "Longitude": "67.45094",
+    "Latitude": "24.14422"
+  },
+  {
+    "Id": "570043e0-e183-4203-aef7-eb33af485ee1",
+    "Country": "PK",
+    "City": "Keshupur",
+    "Longitude": "72.5",
+    "Latitude": "32.26"
+  },
+  {
+    "Id": "19a5be30-afd1-4967-ad6a-dde42eb2e551",
+    "Country": "PK",
+    "City": "Kasur",
+    "Longitude": "74.45025",
+    "Latitude": "31.11866"
+  },
+  {
+    "Id": "436d9860-4aa9-45da-8ae9-497e13f9f876",
+    "Country": "PK",
+    "City": "Kashmor",
+    "Longitude": "69.58364",
+    "Latitude": "28.4326"
+  },
+  {
+    "Id": "4c29b371-8563-438f-be0a-03a18fa45358",
+    "Country": "PK",
+    "City": "Karor",
+    "Longitude": "70.95153",
+    "Latitude": "31.2246"
+  },
+  {
+    "Id": "855b0651-e6ef-48a7-b6cc-e0d144d7f057",
+    "Country": "PK",
+    "City": "Kario Ghanwar",
+    "Longitude": "68.60483",
+    "Latitude": "24.80817"
+  },
+  {
+    "Id": "94e73aa1-5972-4ee3-b4f6-58b701422f16",
+    "Country": "PK",
+    "City": "Karaundi",
+    "Longitude": "68.40643",
+    "Latitude": "26.89709"
+  },
+  {
+    "Id": "d17fef74-76c1-4d7c-a76c-5d5c64179789",
+    "Country": "PK",
+    "City": "Karachi",
+    "Longitude": "67.0104",
+    "Latitude": "24.8608"
+  },
+  {
+    "Id": "183173a8-f3f5-4374-9cbc-0bf6690f6133",
+    "Country": "PK",
+    "City": "Kanganpur",
+    "Longitude": "74.12286",
+    "Latitude": "30.76468"
+  },
+  {
+    "Id": "4b2d090f-dd90-4da9-b1c3-d15a473ffc01",
+    "Country": "PK",
+    "City": "Kandiaro",
+    "Longitude": "68.21022",
+    "Latitude": "27.05918"
+  },
+  {
+    "Id": "f301eb52-b78d-4f8a-9899-b51d41405b25",
+    "Country": "PK",
+    "City": "Kandiari",
+    "Longitude": "68.52193",
+    "Latitude": "26.9155"
+  },
+  {
+    "Id": "0823eb81-77ab-4b55-b5e3-32b502bec3e2",
+    "Country": "PK",
+    "City": "Kandhkot",
+    "Longitude": "69.17974",
+    "Latitude": "28.24574"
+  },
+  {
+    "Id": "43279a3e-2a75-492c-9551-94cc1f280b1d",
+    "Country": "PK",
+    "City": "Kamra",
+    "Longitude": "73.51229",
+    "Latitude": "33.74698"
+  },
+  {
+    "Id": "8421de87-0b49-4f6d-9889-d57a5015826e",
+    "Country": "PK",
+    "City": "Kamoke",
+    "Longitude": "74.22304",
+    "Latitude": "31.97526"
+  },
+  {
+    "Id": "158391a5-253f-4e8f-8823-540edb7b32fc",
+    "Country": "PK",
+    "City": "Chak One Hundred Twenty Nine Left",
+    "Longitude": "73.04522",
+    "Latitude": "30.42919"
+  },
+  {
+    "Id": "c5fdcdc9-9117-4d19-88d7-9ec1e8259b50",
+    "Country": "PK",
+    "City": "Kamar Mushani",
+    "Longitude": "71.36192",
+    "Latitude": "32.84318"
+  },
+  {
+    "Id": "8d395996-b101-4719-86ab-8648fa626eab",
+    "Country": "PK",
+    "City": "Kamalia",
+    "Longitude": "72.64607",
+    "Latitude": "30.72708"
+  },
+  {
+    "Id": "7155c73e-ddd6-4143-ba35-bcb54570476d",
+    "Country": "PK",
+    "City": "Kalur Kot",
+    "Longitude": "71.26631",
+    "Latitude": "32.15512"
+  },
+  {
+    "Id": "b7dde334-2eeb-40bb-8de3-ab3167b253e3",
+    "Country": "PK",
+    "City": "Kallar Kahar",
+    "Longitude": "72.69793",
+    "Latitude": "32.77998"
+  },
+  {
+    "Id": "352fe437-c902-4202-bd41-f314a010f7eb",
+    "Country": "PK",
+    "City": "Kaleke Mandi",
+    "Longitude": "73.59999",
+    "Latitude": "31.97597"
+  },
+  {
+    "Id": "025eacc2-dd25-4a46-95f8-e157c048c33a",
+    "Country": "PK",
+    "City": "Kalat",
+    "Longitude": "66.59361",
+    "Latitude": "29.02663"
+  },
+  {
+    "Id": "920975b6-0229-45ed-be37-8c678b1fa259",
+    "Country": "PK",
+    "City": "Kalaswala",
+    "Longitude": "74.64858",
+    "Latitude": "32.20081"
+  },
+  {
+    "Id": "7426b1d8-a2e4-4b1e-b1a9-ec7ec806334f",
+    "Country": "PK",
+    "City": "Kalabagh",
+    "Longitude": "71.54638",
+    "Latitude": "32.96164"
+  },
+  {
+    "Id": "9c907a08-63fe-41b2-a9ef-78249497bd86",
+    "Country": "PK",
+    "City": "Kahuta",
+    "Longitude": "73.38736",
+    "Latitude": "33.59183"
+  },
+  {
+    "Id": "9595d9dd-eafb-4bf0-9364-d39144beb178",
+    "Country": "PK",
+    "City": "Kahror Pakka",
+    "Longitude": "71.91437",
+    "Latitude": "29.6243"
+  },
+  {
+    "Id": "19e79251-af25-4801-8009-9fe940a52e13",
+    "Country": "PK",
+    "City": "Kahna Nau",
+    "Longitude": "74.36899",
+    "Latitude": "31.36709"
+  },
+  {
+    "Id": "36bc485f-3587-41bc-b4cd-5a8b5256a61b",
+    "Country": "PK",
+    "City": "Kadhan",
+    "Longitude": "68.98551",
+    "Latitude": "24.48041"
+  },
+  {
+    "Id": "dc6621ce-824a-4015-a2e4-646c07c7e787",
+    "Country": "PK",
+    "City": "Kabirwala",
+    "Longitude": "71.86269",
+    "Latitude": "30.40472"
+  },
+  {
+    "Id": "78b0f744-aa87-47f9-92c9-50e034220663",
+    "Country": "PK",
+    "City": "Johi",
+    "Longitude": "67.61431",
+    "Latitude": "26.69225"
+  },
+  {
+    "Id": "f33e3c0e-c4eb-458a-adc6-539650108efe",
+    "Country": "PK",
+    "City": "Jiwani",
+    "Longitude": "61.74573",
+    "Latitude": "25.04852"
+  },
+  {
+    "Id": "b06d39f4-7bef-462a-816f-99898f12fa08",
+    "Country": "PK",
+    "City": "Chak Jhumra",
+    "Longitude": "73.18317",
+    "Latitude": "31.56808"
+  },
+  {
+    "Id": "de5d3396-efaf-46d3-a954-03e70123cb3c",
+    "Country": "PK",
+    "City": "Jhol",
+    "Longitude": "68.88871",
+    "Latitude": "25.95533"
+  },
+  {
+    "Id": "65b40dde-9107-4dd8-a3e4-b6668d77fa45",
+    "Country": "PK",
+    "City": "Jhelum",
+    "Longitude": "73.73102",
+    "Latitude": "32.93448"
+  },
+  {
+    "Id": "f4388ade-c30f-47a3-b1fc-eb8adfeb7b51",
+    "Country": "PK",
+    "City": "Jhawarian",
+    "Longitude": "72.62275",
+    "Latitude": "32.36192"
+  },
+  {
+    "Id": "5d5933eb-b31c-4697-9a82-074897013c20",
+    "Country": "PK",
+    "City": "Dera Allahyar",
+    "Longitude": "68.35078",
+    "Latitude": "28.37353"
+  },
+  {
+    "Id": "98441bb9-b710-41d0-a15a-ce2cacfcfa91",
+    "Country": "PK",
+    "City": "Jhang Sadr",
+    "Longitude": "72.31687",
+    "Latitude": "31.26981"
+  },
+  {
+    "Id": "abbb13df-764a-4c91-9fd0-648bb7122e1c",
+    "Country": "PK",
+    "City": "Jauharabad",
+    "Longitude": "72.28182",
+    "Latitude": "32.29016"
+  },
+  {
+    "Id": "322484db-7be7-4819-8bcb-fe01afb4976b",
+    "Country": "PK",
+    "City": "Jatoi Shimali",
+    "Longitude": "70.84474",
+    "Latitude": "29.51827"
+  },
+  {
+    "Id": "d3e9b7cc-5a7c-4bb7-9d15-cee3161bc090",
+    "Country": "PK",
+    "City": "Jati",
+    "Longitude": "68.26732",
+    "Latitude": "24.35492"
+  },
+  {
+    "Id": "16c9069c-a207-42a0-8611-8a16b0c72555",
+    "Country": "PK",
+    "City": "Jaranwala",
+    "Longitude": "73.41868",
+    "Latitude": "31.3332"
+  },
+  {
+    "Id": "d1cddca4-b001-4fb1-9234-f1dbde5d2555",
+    "Country": "PK",
+    "City": "Jandiala Sher Khan",
+    "Longitude": "73.91815",
+    "Latitude": "31.82098"
+  },
+  {
+    "Id": "000ece9a-f0d6-4a95-a2bc-996f713d2799",
+    "Country": "PK",
+    "City": "Jand",
+    "Longitude": "72.01877",
+    "Latitude": "33.43304"
+  },
+  {
+    "Id": "83866695-311f-49c5-8101-f31a3c3a8cbb",
+    "Country": "PK",
+    "City": "Jamshoro",
+    "Longitude": "68.28017",
+    "Latitude": "25.43608"
+  },
+  {
+    "Id": "c3beb5c7-22ae-4dc1-a751-b54191c7e0d3",
+    "Country": "PK",
+    "City": "Jampur",
+    "Longitude": "70.59518",
+    "Latitude": "29.64235"
+  },
+  {
+    "Id": "3085d024-f964-4d9f-9427-94e52d7aca9a",
+    "Country": "PK",
+    "City": "Jalalpur Pirwala",
+    "Longitude": "71.22202",
+    "Latitude": "29.5051"
+  },
+  {
+    "Id": "9c7c5cb7-2662-4061-9744-4b5d7e33c4ad",
+    "Country": "PK",
+    "City": "Jalalpur Jattan",
+    "Longitude": "74.20561",
+    "Latitude": "32.64118"
+  },
+  {
+    "Id": "02707908-cd6e-4a7d-9755-3bb8457abf85",
+    "Country": "PK",
+    "City": "Jahanian Shah",
+    "Longitude": "72.2774",
+    "Latitude": "31.80541"
+  },
+  {
+    "Id": "1423ab76-82e7-491a-9ddc-5232d109afb5",
+    "Country": "PK",
+    "City": "Jacobabad",
+    "Longitude": "68.43761",
+    "Latitude": "28.28187"
+  },
+  {
+    "Id": "e8af953a-1da7-4b47-9623-c8348939ae0e",
+    "Country": "PK",
+    "City": "Islamkot",
+    "Longitude": "70.17982",
+    "Latitude": "24.69904"
+  },
+  {
+    "Id": "58ba139f-3dc0-4b74-a452-cbff5b479859",
+    "Country": "PK",
+    "City": "Islamabad",
+    "Longitude": "73.04329",
+    "Latitude": "33.72148"
+  },
+  {
+    "Id": "d485a4fb-492b-426f-9e73-0e530eca423e",
+    "Country": "PK",
+    "City": "Hyderabad",
+    "Longitude": "68.37366",
+    "Latitude": "25.39242"
+  },
+  {
+    "Id": "261b0292-977f-49e5-8f34-fd540f3f2c9d",
+    "Country": "PK",
+    "City": "Hujra Shah Muqim",
+    "Longitude": "73.82327",
+    "Latitude": "30.74168"
+  },
+  {
+    "Id": "f73c7178-e626-4db7-ae2a-52fea1bc977b",
+    "Country": "PK",
+    "City": "Hingorja",
+    "Longitude": "68.41598",
+    "Latitude": "27.21088"
+  },
+  {
+    "Id": "d501107c-e078-4245-a644-0a1330443d56",
+    "Country": "PK",
+    "City": "Hazro City",
+    "Longitude": "72.49179",
+    "Latitude": "33.9099"
+  },
+  {
+    "Id": "f9f0d5cc-5e75-4b2a-bea5-a0583dab5787",
+    "Country": "PK",
+    "City": "Havelian",
+    "Longitude": "73.15993",
+    "Latitude": "34.05348"
+  },
+  {
+    "Id": "1b35a14d-669f-4a61-9a6c-5fab609412a3",
+    "Country": "PK",
+    "City": "Haveli Lakha",
+    "Longitude": "73.69371",
+    "Latitude": "30.45097"
+  },
+  {
+    "Id": "fa401576-59d3-41ee-bce7-4e5879ca7e7a",
+    "Country": "PK",
+    "City": "Hasilpur",
+    "Longitude": "72.54566",
+    "Latitude": "29.69221"
+  },
+  {
+    "Id": "b19865db-fb10-4500-ae62-156c8ead1976",
+    "Country": "PK",
+    "City": "Chak Thirty-one -Eleven Left",
+    "Longitude": "72.69737",
+    "Latitude": "30.42388"
+  },
+  {
+    "Id": "c666c525-06ed-4936-89b6-a52f28186bba",
+    "Country": "PK",
+    "City": "Harunabad",
+    "Longitude": "73.13802",
+    "Latitude": "29.61206"
+  },
+  {
+    "Id": "08c21f4d-cfd6-4dce-a9de-a2c4044077d8",
+    "Country": "PK",
+    "City": "Harnoli",
+    "Longitude": "71.55429",
+    "Latitude": "32.27871"
+  },
+  {
+    "Id": "6413fa59-e983-4c25-b2b0-2b73bd5747a3",
+    "Country": "PK",
+    "City": "Harnai",
+    "Longitude": "67.93824",
+    "Latitude": "30.10077"
+  },
+  {
+    "Id": "0652811d-cac4-4748-bd39-fc51ded0d4a0",
+    "Country": "PK",
+    "City": "Haripur",
+    "Longitude": "72.93493",
+    "Latitude": "33.99783"
+  },
+  {
+    "Id": "a26eaabd-9a25-4c97-9a25-4e4fbb65ba99",
+    "Country": "PK",
+    "City": "Hangu",
+    "Longitude": "71.0595",
+    "Latitude": "33.53198"
+  },
+  {
+    "Id": "c1909a12-6c94-46b2-8831-259265390107",
+    "Country": "PK",
+    "City": "Hala",
+    "Longitude": "68.42198",
+    "Latitude": "25.81459"
+  },
+  {
+    "Id": "ee224226-b49e-4fb7-9012-98627257e147",
+    "Country": "PK",
+    "City": "Hafizabad",
+    "Longitude": "73.68802",
+    "Latitude": "32.07095"
+  },
+  {
+    "Id": "ebedb5fe-fdec-4869-bc3e-12b3ebebc82d",
+    "Country": "PK",
+    "City": "Hadali",
+    "Longitude": "74.56898",
+    "Latitude": "32.64043"
+  },
+  {
+    "Id": "e9e4e176-c77c-463e-9a08-12c230251fb5",
+    "Country": "PK",
+    "City": "Gwadar",
+    "Longitude": "62.32541",
+    "Latitude": "25.12163"
+  },
+  {
+    "Id": "4dc038de-3087-4c48-8dc5-275972acdd75",
+    "Country": "PK",
+    "City": "Gujrat",
+    "Longitude": "74.07542",
+    "Latitude": "32.5742"
+  },
+  {
+    "Id": "fc2d367f-4188-40a9-b415-dfb3a5d7b845",
+    "Country": "PK",
+    "City": "Gujranwala",
+    "Longitude": "74.18705",
+    "Latitude": "32.15567"
+  },
+  {
+    "Id": "03ae9fad-b1f1-46a6-b618-67f3b72729f4",
+    "Country": "PK",
+    "City": "Gujar Khan",
+    "Longitude": "73.30433",
+    "Latitude": "33.25411"
+  },
+  {
+    "Id": "52527fac-f99a-4149-924c-00dde17e6b00",
+    "Country": "PK",
+    "City": "Gojra",
+    "Longitude": "72.68323",
+    "Latitude": "31.14926"
+  },
+  {
+    "Id": "6aa8d050-5789-4977-a470-9a00dd7b0b60",
+    "Country": "PK",
+    "City": "Gilgit",
+    "Longitude": "74.31245",
+    "Latitude": "35.91869"
+  },
+  {
+    "Id": "d391f5d6-a2da-4d1c-acef-82f83fa43135",
+    "Country": "PK",
+    "City": "Ghotki",
+    "Longitude": "69.31569",
+    "Latitude": "28.00437"
+  },
+  {
+    "Id": "6b595519-c411-4c9c-8c2b-740658fdc975",
+    "Country": "PK",
+    "City": "Ghauspur",
+    "Longitude": "69.08245",
+    "Latitude": "28.13882"
+  },
+  {
+    "Id": "434430d6-058c-4e08-8193-64efbcace882",
+    "Country": "PK",
+    "City": "Gharo",
+    "Longitude": "67.58534",
+    "Latitude": "24.74182"
+  },
+  {
+    "Id": "45443130-3a54-4bd6-a21f-8404138068c2",
+    "Country": "PK",
+    "City": "Garh Maharaja",
+    "Longitude": "71.90491",
+    "Latitude": "30.83383"
+  },
+  {
+    "Id": "aadf11ec-6197-4443-ab9e-d2ec53344685",
+    "Country": "PK",
+    "City": "Garhiyasin",
+    "Longitude": "68.5121",
+    "Latitude": "27.90631"
+  },
+  {
+    "Id": "e096ae34-2742-4fef-8ed4-d1f9b0d27c0a",
+    "Country": "PK",
+    "City": "Garhi Khairo",
+    "Longitude": "67.98033",
+    "Latitude": "28.06029"
+  },
+  {
+    "Id": "5abcd745-f40c-4ca5-8f12-c2a8021c8dfa",
+    "Country": "PK",
+    "City": "Goth Garelo",
+    "Longitude": "68.07572",
+    "Latitude": "27.43521"
+  },
+  {
+    "Id": "4a475bba-5a0d-4040-8c67-5d0c990faaeb",
+    "Country": "PK",
+    "City": "Gandava",
+    "Longitude": "67.48564",
+    "Latitude": "28.61321"
+  },
+  {
+    "Id": "c8b13e31-c907-46ac-b1ce-292686302481",
+    "Country": "PK",
+    "City": "Gambat",
+    "Longitude": "68.5215",
+    "Latitude": "27.3517"
+  },
+  {
+    "Id": "77de8c11-d8d1-4d92-9293-f87d3f8fada6",
+    "Country": "PK",
+    "City": "Gahkuch",
+    "Longitude": "73.76383",
+    "Latitude": "36.17683"
+  },
+  {
+    "Id": "2910016a-81c5-48d8-a31d-0df54789ccf1",
+    "Country": "PK",
+    "City": "Gadani",
+    "Longitude": "66.73219",
+    "Latitude": "25.11879"
+  },
+  {
+    "Id": "97f2df90-c698-4cbc-8b98-ff808458f647",
+    "Country": "PK",
+    "City": "Fort Abbas",
+    "Longitude": "72.85525",
+    "Latitude": "29.19344"
+  },
+  {
+    "Id": "5cfb3f06-2592-47ee-9edd-ee7852ea5b66",
+    "Country": "PK",
+    "City": "Fazilpur",
+    "Longitude": "75.06583",
+    "Latitude": "32.17629"
+  },
+  {
+    "Id": "e43336b3-10f6-421a-952f-cc7988579a67",
+    "Country": "PK",
+    "City": "Fatehpur",
+    "Longitude": "71.2048",
+    "Latitude": "31.17772"
+  },
+  {
+    "Id": "2a5fe835-5710-4432-8442-4a466840208f",
+    "Country": "PK",
+    "City": "Faruka",
+    "Longitude": "72.41362",
+    "Latitude": "31.88642"
+  },
+  {
+    "Id": "c8dc058f-d8e0-4cd9-8530-723c74d0805d",
+    "Country": "PK",
+    "City": "Faqirwali",
+    "Longitude": "73.03489",
+    "Latitude": "29.46799"
+  },
+  {
+    "Id": "7120aad2-798d-414b-ae38-a37d68cf00a0",
+    "Country": "PK",
+    "City": "Faisalabad",
+    "Longitude": "73.08969",
+    "Latitude": "31.41554"
+  },
+  {
+    "Id": "c1d34093-9dc1-4377-9cee-d5810e894fc6",
+    "Country": "PK",
+    "City": "Eminabad",
+    "Longitude": "74.25996",
+    "Latitude": "32.04237"
+  },
+  {
+    "Id": "a058e49a-291a-472a-99de-e3ffd8c29bb7",
+    "Country": "PK",
+    "City": "Dunyapur",
+    "Longitude": "71.74344",
+    "Latitude": "29.80275"
+  },
+  {
+    "Id": "02b00487-4986-4f97-8174-487fa04881ef",
+    "Country": "PK",
+    "City": "Dunga Bunga",
+    "Longitude": "73.24294",
+    "Latitude": "29.74975"
+  },
+  {
+    "Id": "74aa46d8-f29c-4c21-aa9d-1647ef29d33d",
+    "Country": "PK",
+    "City": "Dullewala",
+    "Longitude": "71.43639",
+    "Latitude": "31.83439"
+  },
+  {
+    "Id": "d102b392-1c7b-4834-8d29-766f405bc4f9",
+    "Country": "PK",
+    "City": "Duki",
+    "Longitude": "68.57323",
+    "Latitude": "30.15307"
+  },
+  {
+    "Id": "ac4c275b-06f9-453f-b02d-4982a90aa58f",
+    "Country": "PK",
+    "City": "Dokri",
+    "Longitude": "68.09715",
+    "Latitude": "27.37421"
+  },
+  {
+    "Id": "ce304b57-6172-4ade-acbd-b0f4496a67d1",
+    "Country": "PK",
+    "City": "Doaba",
+    "Longitude": "70.73676",
+    "Latitude": "33.4245"
+  },
+  {
+    "Id": "4e4696eb-2803-45a1-bdf6-38e128703367",
+    "Country": "PK",
+    "City": "Dittewal",
+    "Longitude": "73.9905",
+    "Latitude": "32.5969"
+  },
+  {
+    "Id": "f5cf5376-c7c6-44e5-89f5-a9109994c0b6",
+    "Country": "PK",
+    "City": "Upper Dir",
+    "Longitude": "71.8768",
+    "Latitude": "35.2074"
+  },
+  {
+    "Id": "825cb5d2-7da0-4708-ab3d-765bc1bf36a2",
+    "Country": "PK",
+    "City": "Diplo",
+    "Longitude": "69.58114",
+    "Latitude": "24.46688"
+  },
+  {
+    "Id": "c5a78b45-97b4-4113-9b1b-738c80dc8e7a",
+    "Country": "PK",
+    "City": "Dipalpur",
+    "Longitude": "73.65306",
+    "Latitude": "30.66984"
+  },
+  {
+    "Id": "38336f2c-c271-44d0-9c0e-b358e3918a28",
+    "Country": "PK",
+    "City": "Dinan Bashnoian Wala",
+    "Longitude": "73.26557",
+    "Latitude": "29.76584"
+  },
+  {
+    "Id": "afd5eae8-f9f6-4751-a197-5f8669f854ae",
+    "Country": "PK",
+    "City": "Dinga",
+    "Longitude": "73.72039",
+    "Latitude": "32.64101"
+  },
+  {
+    "Id": "97fc8fc6-8801-45bb-b6d7-16222f53cc5b",
+    "Country": "PK",
+    "City": "Dijkot",
+    "Longitude": "72.99621",
+    "Latitude": "31.21735"
+  },
+  {
+    "Id": "ba3cdda7-1ba1-456c-8d10-a1d1d0245e12",
+    "Country": "PK",
+    "City": "Digri",
+    "Longitude": "69.11098",
+    "Latitude": "25.15657"
+  },
+  {
+    "Id": "e1585f12-d048-4975-b7a2-12e7d37448e4",
+    "Country": "PK",
+    "City": "Dhoro Naro",
+    "Longitude": "69.5709",
+    "Latitude": "25.50484"
+  },
+  {
+    "Id": "8dc1da90-7dec-4317-acc0-12db0efc4138",
+    "Country": "PK",
+    "City": "Dhaunkal",
+    "Longitude": "74.13706",
+    "Latitude": "32.40613"
+  },
+  {
+    "Id": "db906856-807a-4e45-b7c8-3c7fb45ce1a6",
+    "Country": "PK",
+    "City": "Dhanot",
+    "Longitude": "71.75213",
+    "Latitude": "29.57991"
+  },
+  {
+    "Id": "f2460a54-6893-4dfb-867d-0a5a0e1ae566",
+    "Country": "PK",
+    "City": "Dera Ismail Khan",
+    "Longitude": "70.9017",
+    "Latitude": "31.83129"
+  },
+  {
+    "Id": "3f86ade8-5c24-4e41-acdd-1a33a43bd2a4",
+    "Country": "PK",
+    "City": "Dera Ghazi Khan",
+    "Longitude": "70.64029",
+    "Latitude": "30.04587"
+  },
+  {
+    "Id": "f4bb65b8-5d19-44d5-aaa6-de74bf31c359",
+    "Country": "PK",
+    "City": "Dera Bugti",
+    "Longitude": "69.15849",
+    "Latitude": "29.03619"
+  },
+  {
+    "Id": "3fe0afd3-9165-4ba3-becb-50c1576c6704",
+    "Country": "PK",
+    "City": "Daur",
+    "Longitude": "68.31835",
+    "Latitude": "26.45528"
+  },
+  {
+    "Id": "2fe6f816-842d-484a-b0e0-d7cdcd3b3c06",
+    "Country": "PK",
+    "City": "Daultala",
+    "Longitude": "73.14099",
+    "Latitude": "33.19282"
+  },
+  {
+    "Id": "fa32dd93-9df7-4723-98c0-e13287bd4a7f",
+    "Country": "PK",
+    "City": "Daulatpur",
+    "Longitude": "67.97079",
+    "Latitude": "26.50158"
+  },
+  {
+    "Id": "12304aee-8f83-4f7f-9851-0d578fe32105",
+    "Country": "PK",
+    "City": "Daud Khel",
+    "Longitude": "71.57118",
+    "Latitude": "32.87533"
+  },
+  {
+    "Id": "4ad405c1-0220-4a1b-9675-5147a1a1a71b",
+    "Country": "PK",
+    "City": "Daska Kalan",
+    "Longitude": "74.35039",
+    "Latitude": "32.32422"
+  },
+  {
+    "Id": "510fb64d-f033-4d75-94f1-e8d09a304590",
+    "Country": "PK",
+    "City": "Darya Khan Marri",
+    "Longitude": "68.28666",
+    "Latitude": "26.67765"
+  },
+  {
+    "Id": "6062e6b1-9273-45f8-a9c2-d8965ce418b7",
+    "Country": "PK",
+    "City": "Darya Khan",
+    "Longitude": "71.10197",
+    "Latitude": "31.78447"
+  },
+  {
+    "Id": "25ac044c-31e9-461a-90a8-8a244a2cc2d1",
+    "Country": "PK",
+    "City": "Daromehar",
+    "Longitude": "68.17978",
+    "Latitude": "24.79382"
+  },
+  {
+    "Id": "28068b95-83d8-4da4-891e-582927741764",
+    "Country": "PK",
+    "City": "Dalbandin",
+    "Longitude": "64.40616",
+    "Latitude": "28.88846"
+  },
+  {
+    "Id": "1285675e-ea40-41f3-baad-a5eabf3a5aa4",
+    "Country": "PK",
+    "City": "Dajal",
+    "Longitude": "70.37614",
+    "Latitude": "29.55769"
+  },
+  {
+    "Id": "9d28a5ed-07b1-4d7d-8950-773966a96f45",
+    "Country": "PK",
+    "City": "Daira Din Panah",
+    "Longitude": "70.93722",
+    "Latitude": "30.57053"
+  },
+  {
+    "Id": "0c524ef2-dad4-4163-b245-78ca54ebecd4",
+    "Country": "PK",
+    "City": "Daggar",
+    "Longitude": "72.48438",
+    "Latitude": "34.51106"
+  },
+  {
+    "Id": "3280bde5-b107-480d-adf8-c5a50f11b141",
+    "Country": "PK",
+    "City": "Dadu",
+    "Longitude": "67.7769",
+    "Latitude": "26.73033"
+  },
+  {
+    "Id": "06810443-07dc-4576-978e-c16d7dc7e961",
+    "Country": "PK",
+    "City": "Dadhar",
+    "Longitude": "67.65167",
+    "Latitude": "29.47489"
+  },
+  {
+    "Id": "10233081-500c-4ed1-aa30-a68b85531cc0",
+    "Country": "PK",
+    "City": "Chunian",
+    "Longitude": "73.97908",
+    "Latitude": "30.96621"
+  },
+  {
+    "Id": "38160344-e4ab-4e41-ba27-01913f06a495",
+    "Country": "PK",
+    "City": "Chuhar Kana",
+    "Longitude": "73.8",
+    "Latitude": "31.75"
+  },
+  {
+    "Id": "cf4d7c92-5a9f-42c4-bf5e-63cdffeb83c4",
+    "Country": "PK",
+    "City": "Chhor",
+    "Longitude": "69.78437",
+    "Latitude": "25.5126"
+  },
+  {
+    "Id": "13e7b6f8-da7d-4cde-9a37-ac57721cccca",
+    "Country": "PK",
+    "City": "Choa Saidan Shah",
+    "Longitude": "72.98625",
+    "Latitude": "32.71962"
+  },
+  {
+    "Id": "2484900f-2e72-4fc3-a885-c18c54241b28",
+    "Country": "PK",
+    "City": "Chitral",
+    "Longitude": "71.78636",
+    "Latitude": "35.8518"
+  },
+  {
+    "Id": "de4faca4-b268-4129-87cf-76ae53824061",
+    "Country": "PK",
+    "City": "Chishtian",
+    "Longitude": "72.85772",
+    "Latitude": "29.79713"
+  },
+  {
+    "Id": "c891f485-f57a-46b6-a359-bc1c5a7a1aad",
+    "Country": "PK",
+    "City": "Chiniot",
+    "Longitude": "72.97836",
+    "Latitude": "31.72091"
+  },
+  {
+    "Id": "c6a588e2-2b95-4514-98eb-aa35c2c8ce2e",
+    "Country": "PK",
+    "City": "Chilas",
+    "Longitude": "74.10407",
+    "Latitude": "35.41287"
+  },
+  {
+    "Id": "1c8e7c3a-f69a-4331-a559-9e69f47061f5",
+    "Country": "PK",
+    "City": "Chichawatni",
+    "Longitude": "72.69155",
+    "Latitude": "30.5301"
+  },
+  {
+    "Id": "ecf14751-1d6e-4a5b-99c3-b1f6bab6d7a5",
+    "Country": "PK",
+    "City": "Cherat Cantonement",
+    "Longitude": "71.89292",
+    "Latitude": "33.82342"
+  },
+  {
+    "Id": "7af75308-a8b8-4076-a17d-3ebc32e3929d",
+    "Country": "PK",
+    "City": "Chawinda",
+    "Longitude": "74.70507",
+    "Latitude": "32.34434"
+  },
+  {
+    "Id": "a2ef5d6a-3565-4d1b-b978-5acf7f13db1d",
+    "Country": "PK",
+    "City": "Charsadda",
+    "Longitude": "71.7406",
+    "Latitude": "34.14822"
+  },
+  {
+    "Id": "04c45944-f5b8-47d2-a35a-eb240bb536c1",
+    "Country": "PK",
+    "City": "Chamber",
+    "Longitude": "68.81176",
+    "Latitude": "25.29362"
+  },
+  {
+    "Id": "1f167d77-124a-47c4-b768-987410294f52",
+    "Country": "PK",
+    "City": "Chaman",
+    "Longitude": "66.45259",
+    "Latitude": "30.91769"
+  },
+  {
+    "Id": "321a1e9c-51cd-4fb0-bb75-b1019ce68c15",
+    "Country": "PK",
+    "City": "Chakwal",
+    "Longitude": "72.85394",
+    "Latitude": "32.93286"
+  },
+  {
+    "Id": "27220c3d-f011-40d2-b916-b1d49ff31c65",
+    "Country": "PK",
+    "City": "Chak Azam Sahu",
+    "Longitude": "73.02834",
+    "Latitude": "30.75202"
+  },
+  {
+    "Id": "c10698bd-327b-47a3-bc70-a2d2baeec5a0",
+    "Country": "PK",
+    "City": "Chak",
+    "Longitude": "68.83378",
+    "Latitude": "27.85838"
+  },
+  {
+    "Id": "8af624e6-b736-4064-878b-496cda8c9570",
+    "Country": "PK",
+    "City": "Burewala",
+    "Longitude": "72.65",
+    "Latitude": "30.16667"
+  },
+  {
+    "Id": "0f28cab9-9e42-47f7-a2a2-cac69e3dd0fa",
+    "Country": "PK",
+    "City": "Bulri",
+    "Longitude": "68.33333",
+    "Latitude": "24.86667"
+  },
+  {
+    "Id": "8143d0d9-1d15-4955-ade5-f4ece169652e",
+    "Country": "PK",
+    "City": "Bozdar Wada",
+    "Longitude": "68.6358",
+    "Latitude": "27.183"
+  },
+  {
+    "Id": "36761e58-c808-4335-88c8-01e69c66c34d",
+    "Country": "PK",
+    "City": "Bhopalwala",
+    "Longitude": "74.3635",
+    "Latitude": "32.42968"
+  },
+  {
+    "Id": "338fda01-a1bd-4712-91b0-99677d8010fa",
+    "Country": "PK",
+    "City": "Bhit Shah",
+    "Longitude": "68.49143",
+    "Latitude": "25.80565"
+  },
+  {
+    "Id": "a87e1665-6cc3-4387-b933-2c0539a8bf8f",
+    "Country": "PK",
+    "City": "Bhiria",
+    "Longitude": "68.19466",
+    "Latitude": "26.91041"
+  },
+  {
+    "Id": "20fecd07-7f25-4fd5-88dc-ff860f3d5ad4",
+    "Country": "PK",
+    "City": "Bhimber",
+    "Longitude": "74.07846",
+    "Latitude": "32.97465"
+  },
+  {
+    "Id": "bca1f599-5de3-43a4-820b-b69403860722",
+    "Country": "PK",
+    "City": "Bhera",
+    "Longitude": "72.90865",
+    "Latitude": "32.48206"
+  },
+  {
+    "Id": "73b20874-4f79-45b2-b14a-c045857a7e8a",
+    "Country": "PK",
+    "City": "Bhawana",
+    "Longitude": "72.64917",
+    "Latitude": "31.56884"
+  },
+  {
+    "Id": "c8eb08a2-faa3-44b4-9e73-7e2a13f8282b",
+    "Country": "PK",
+    "City": "Bhan",
+    "Longitude": "67.72139",
+    "Latitude": "26.55831"
+  },
+  {
+    "Id": "a06a4538-a4da-47d7-862e-8194ec90f4e0",
+    "Country": "PK",
+    "City": "Bhalwal",
+    "Longitude": "72.89809",
+    "Latitude": "32.26576"
+  },
+  {
+    "Id": "f837a07b-a986-4c87-9c72-79a54e71e55c",
+    "Country": "PK",
+    "City": "Bhakkar",
+    "Longitude": "71.06471",
+    "Latitude": "31.62685"
+  },
+  {
+    "Id": "a37d17a3-b3d0-4e72-a89e-8f6f5705fe31",
+    "Country": "PK",
+    "City": "Mianke Mor",
+    "Longitude": "73.94857",
+    "Latitude": "31.2024"
+  },
+  {
+    "Id": "e28d7e4b-9d83-4a2d-954d-e39ca32b6566",
+    "Country": "PK",
+    "City": "Bhag",
+    "Longitude": "67.82394",
+    "Latitude": "29.04174"
+  },
+  {
+    "Id": "29f4c37e-cf3f-46c5-8ae0-a17c0c9a0fdb",
+    "Country": "PK",
+    "City": "Berani",
+    "Longitude": "68.80754",
+    "Latitude": "25.78497"
+  },
+  {
+    "Id": "f9b54045-e551-415f-bcfd-d2bea5015aac",
+    "Country": "PK",
+    "City": "Bela",
+    "Longitude": "66.31178",
+    "Latitude": "26.22718"
+  },
+  {
+    "Id": "2108ef5b-8c56-4f7e-be06-7461d9f777ad",
+    "Country": "PK",
+    "City": "Begowala",
+    "Longitude": "74.26794",
+    "Latitude": "32.43816"
+  },
+  {
+    "Id": "696e10d9-8b5d-459f-802b-50ccc3d921fc",
+    "Country": "PK",
+    "City": "Bat Khela",
+    "Longitude": "71.97247",
+    "Latitude": "34.6178"
+  },
+  {
+    "Id": "059d5794-f414-456e-be5c-f2677ac70c48",
+    "Country": "PK",
+    "City": "Battagram",
+    "Longitude": "73.02329",
+    "Latitude": "34.67719"
+  },
+  {
+    "Id": "13a79ede-1ee3-4d8a-a446-79da2e05fe71",
+    "Country": "PK",
+    "City": "Basirpur",
+    "Longitude": "73.83912",
+    "Latitude": "30.57759"
+  },
+  {
+    "Id": "a5e787fa-6a7b-4f8e-940c-24b068d47fd7",
+    "Country": "PK",
+    "City": "Barkhan",
+    "Longitude": "69.52558",
+    "Latitude": "29.89773"
+  },
+  {
+    "Id": "bfc4d93e-6761-4f67-916c-fc57abd50d1b",
+    "Country": "PK",
+    "City": "Bannu",
+    "Longitude": "70.60403",
+    "Latitude": "32.98527"
+  },
+  {
+    "Id": "830ac25c-40f4-402a-99e0-9e0470f40a79",
+    "Country": "PK",
+    "City": "Banian",
+    "Longitude": "73.99235",
+    "Latitude": "32.61799"
+  },
+  {
+    "Id": "5984264e-c65c-46e6-bbb7-cfa1fc59ee3d",
+    "Country": "PK",
+    "City": "Bandhi",
+    "Longitude": "68.30215",
+    "Latitude": "26.58761"
+  },
+  {
+    "Id": "7431d557-3040-4cc3-9d54-1aaf914d213a",
+    "Country": "PK",
+    "City": "Bakhri Ahmad Khan",
+    "Longitude": "70.83796",
+    "Latitude": "30.73586"
+  },
+  {
+    "Id": "d0804161-322d-4a57-b10b-1bdc5979b506",
+    "Country": "PK",
+    "City": "Bahawalpur",
+    "Longitude": "71.6752",
+    "Latitude": "29.39779"
+  },
+  {
+    "Id": "da6b4578-f311-44a7-8c93-7b247a3d56ff",
+    "Country": "PK",
+    "City": "Bahawalnagar",
+    "Longitude": "73.25272",
+    "Latitude": "29.99835"
+  },
+  {
+    "Id": "417a9c27-2c14-4f8f-9c4a-99a34256fc0b",
+    "Country": "PK",
+    "City": "Bagh",
+    "Longitude": "73.77608",
+    "Latitude": "33.98111"
+  },
+  {
+    "Id": "37ecb8ae-612d-4e04-9ecb-4bffb229da28",
+    "Country": "PK",
+    "City": "Bagarji",
+    "Longitude": "68.75866",
+    "Latitude": "27.75431"
+  },
+  {
+    "Id": "25c4d35b-8d42-41c5-a34c-8ac261716b6a",
+    "Country": "PK",
+    "City": "Baffa",
+    "Longitude": "73.22368",
+    "Latitude": "34.4377"
+  },
+  {
+    "Id": "77b68c4c-d853-4b55-bcaa-7f685f9b1e7e",
+    "Country": "PK",
+    "City": "Badin",
+    "Longitude": "68.837",
+    "Latitude": "24.656"
+  },
+  {
+    "Id": "f155fb04-087f-4de1-a9ee-4f086783f95a",
+    "Country": "PK",
+    "City": "Baddomalhi",
+    "Longitude": "74.6641",
+    "Latitude": "31.99042"
+  },
+  {
+    "Id": "af23c2da-fb5c-425c-b184-fbb4b99e30c1",
+    "Country": "PK",
+    "City": "Awaran",
+    "Longitude": "65.23144",
+    "Latitude": "26.45677"
+  },
+  {
+    "Id": "6cce4d38-ff91-4033-8152-bab9ee3df5df",
+    "Country": "PK",
+    "City": "Attock City",
+    "Longitude": "72.35977",
+    "Latitude": "33.76671"
+  },
+  {
+    "Id": "542730e1-2aa5-4b63-a7f5-ca98be98a0e4",
+    "Country": "PK",
+    "City": "Arifwala",
+    "Longitude": "73.06574",
+    "Latitude": "30.29058"
+  },
+  {
+    "Id": "1cf2248b-3e59-4edd-955e-d7daf73657c5",
+    "Country": "PK",
+    "City": "Aman Garh",
+    "Longitude": "71.92971",
+    "Latitude": "34.00584"
+  },
+  {
+    "Id": "59d1518e-0aa7-4178-9173-995955b61d63",
+    "Country": "PK",
+    "City": "Alizai",
+    "Longitude": "70.34607",
+    "Latitude": "33.53613"
+  },
+  {
+    "Id": "2cf61508-7b30-42b5-a647-5b7e9bf9eb17",
+    "Country": "PK",
+    "City": "Alipur",
+    "Longitude": "70.91106",
+    "Latitude": "29.38242"
+  },
+  {
+    "Id": "57133603-5e25-438d-bcd2-8039d0e0175b",
+    "Country": "PK",
+    "City": "Aliabad",
+    "Longitude": "74.61545",
+    "Latitude": "36.30703"
+  },
+  {
+    "Id": "b2435ad6-4688-4384-80cc-7c3f3866feff",
+    "Country": "PK",
+    "City": "Akora",
+    "Longitude": "72.12561",
+    "Latitude": "34.00337"
+  },
+  {
+    "Id": "3b3b1f8f-276b-4aea-8d2c-bcfdb6cbee74",
+    "Country": "PK",
+    "City": "Ahmadpur East",
+    "Longitude": "71.25771",
+    "Latitude": "29.14269"
+  },
+  {
+    "Id": "818cf312-60a2-44eb-9889-655fefa3232a",
+    "Country": "PK",
+    "City": "Abbottabad",
+    "Longitude": "73.21168",
+    "Latitude": "34.1463"
+  },
+  {
+    "Id": "940317a3-ee5c-4e2c-a97d-a1ee7f368b36",
+    "Country": "PK",
+    "City": "Jhang City",
+    "Longitude": "72.32594",
+    "Latitude": "31.30568"
+  },
+  {
+    "Id": "fd8ebfda-87b2-4d4e-bf54-93d3b00a5578",
+    "Country": "PK",
+    "City": "Bahawalnagar",
+    "Longitude": "73.39083",
+    "Latitude": "30.55083"
+  },
+  {
+    "Id": "4ec3862c-adb7-42ad-82b7-689f53abb6d6",
+    "Country": "PK",
+    "City": "Gulishah Kach",
+    "Longitude": "70.33917",
+    "Latitude": "32.67087"
+  },
+  {
+    "Id": "c2787b32-8fd2-440e-a7f7-1185471ccdc6",
+    "Country": "PK",
+    "City": "Nowshera Cantonment",
+    "Longitude": "71.99834",
+    "Latitude": "33.99829"
+  },
+  {
+    "Id": "b536cbbf-1274-42c2-81a0-ce546ec912f8",
+    "Country": "PK",
+    "City": "Alik Ghund",
+    "Longitude": "67.52177",
+    "Latitude": "30.48976"
+  },
+  {
+    "Id": "66f8c0bb-8443-4d06-a336-9f63647567a4",
+    "Country": "PK",
+    "City": "Khadan Khak",
+    "Longitude": "67.71133",
+    "Latitude": "30.75236"
+  },
+  {
+    "Id": "84db1cba-b92a-4e38-a20d-7e9bac3d3e85",
+    "Country": "PK",
+    "City": "Ahmadpur Sial",
+    "Longitude": "71.74344",
+    "Latitude": "30.67791"
+  },
+  {
+    "Id": "797dffe9-561a-4dd6-b37e-3884245f1f3d",
+    "Country": "PK",
+    "City": "New Badah",
+    "Longitude": "68.03194",
+    "Latitude": "27.34167"
+  },
+  {
+    "Id": "6968063a-d5ce-47d6-bab0-6f2c692612dc",
+    "Country": "PK",
+    "City": "Dandot RS",
+    "Longitude": "72.975",
+    "Latitude": "32.64167"
+  },
+  {
+    "Id": "95c4455f-8af8-4c6f-a40e-b4a5f31abe66",
+    "Country": "PK",
+    "City": "Chak Pindi",
+    "Longitude": "73.97301",
+    "Latitude": "32.59677"
+  },
+  {
+    "Id": "5fa2d420-cd61-4fb2-9079-2cc1c5c8d563",
+    "Country": "PK",
+    "City": "Dera Murad Jamali",
+    "Longitude": "68.22308",
+    "Latitude": "28.54657"
+  },
+  {
+    "Id": "0facb44a-2c27-4d93-b894-a90cb8de9c43",
+    "Country": "PK",
+    "City": "Jām Sāhib",
+    "Longitude": "68.62917",
+    "Latitude": "26.29583"
+  },
+  {
+    "Id": "a10f53e3-2a23-4946-b5e3-fc2fcbd28a72",
+    "Country": "PK",
+    "City": "Chowki Jamali",
+    "Longitude": "67.92083",
+    "Latitude": "28.01944"
+  },
+  {
+    "Id": "924c8efa-e4fe-4e34-b4d4-aebe96dfea6a",
+    "Country": "PK",
+    "City": "Setharja Old",
+    "Longitude": "68.46883",
+    "Latitude": "27.2127"
+  },
+  {
+    "Id": "696f5e59-8e5c-4e93-b4ad-82c811f0178b",
+    "Country": "PK",
+    "City": "Sook Kalan",
+    "Longitude": "74.14652",
+    "Latitude": "32.59702"
+  },
+  {
+    "Id": "41beece6-c238-4771-abae-15d90909663c",
+    "Country": "PK",
+    "City": "Risalpur Cantonment",
+    "Longitude": "71.99276",
+    "Latitude": "34.06048"
+  },
+  {
+    "Id": "6a7d315c-bf83-4fdf-a305-a739cae8548e",
+    "Country": "PK",
+    "City": "Noorabad",
+    "Longitude": "71.96656",
+    "Latitude": "34.25195"
+  },
+  {
+    "Id": "3c459a5c-39b1-4a14-8264-fb283ff0065a",
+    "Country": "PK",
+    "City": "Alpurai",
+    "Longitude": "72.63265",
+    "Latitude": "34.92039"
+  },
+  {
+    "Id": "928a9270-23da-48bb-9f96-7fb953e17ea4",
+    "Country": "PK",
+    "City": "Shingli Bala",
+    "Longitude": "72.98491",
+    "Latitude": "34.67872"
+  },
+  {
+    "Id": "8e646555-4487-4960-b031-a98b77c8096a",
+    "Country": "PK",
+    "City": "Malakwal City",
+    "Longitude": "73.2122",
+    "Latitude": "32.55492"
+  },
+  {
+    "Id": "08e5c2e6-8b39-4604-ba9c-ca493eea21ba",
+    "Country": "PK",
+    "City": "Mehmand Chak",
+    "Longitude": "73.82306",
+    "Latitude": "32.78518"
+  },
+  {
+    "Id": "84034066-685f-46ad-928e-057d2478276d",
+    "Country": "PK",
+    "City": "Basti Dosa",
+    "Longitude": "70.86853",
+    "Latitude": "30.78769"
+  },
+  {
+    "Id": "b1474ac2-f0f5-4013-bf2e-45a1eda1021b",
+    "Country": "PK",
+    "City": "Moza Shahwala",
+    "Longitude": "70.84911",
+    "Latitude": "30.80563"
+  },
+  {
+    "Id": "fa14534b-06bb-4bb5-ae5d-36ba26de7555",
+    "Country": "PK",
+    "City": "Muhammad Moryal Sahito Jo Goth",
+    "Longitude": "68.40328",
+    "Latitude": "27.16825"
+  },
+  {
+    "Id": "cae47356-5f9f-46b1-804a-80a6f4a3c6b0",
+    "Country": "PK",
+    "City": "Dambudas",
+    "Longitude": "75.22493",
+    "Latitude": "35.59759"
+  },
+  {
+    "Id": "79dad521-5d2b-4ed5-ae58-950ab9a8d81a",
+    "Country": "PK",
+    "City": "Eidghah",
+    "Longitude": "74.85632",
+    "Latitude": "35.34712"
+  },
+  {
+    "Id": "1045c035-736f-42af-80cf-8ce5585677e5",
+    "Country": "PK",
+    "City": "Dasu",
+    "Longitude": "73.2906",
+    "Latitude": "35.29169"
+  },
+  {
+    "Id": "e4ba7eb5-e052-4e79-947a-621ee8580402",
+    "Country": "PK",
+    "City": "Barishal",
+    "Longitude": "74.69502",
+    "Latitude": "36.32162"
+  },
+  {
+    "Id": "4c43d9d7-28ed-4420-ad0d-0b9face9fa4c",
+    "Country": "PK",
+    "City": "Athmuqam",
+    "Longitude": "73.89724",
+    "Latitude": "34.57173"
+  },
+  {
+    "Id": "ffa06c8c-bc98-4252-8396-598097c30724",
+    "Country": "PK",
+    "City": "Nazir Town",
+    "Longitude": "73.4833",
+    "Latitude": "33.30614"
+  },
+  {
+    "Id": "e2b47faa-a171-46b5-8354-d63f91ceea50",
+    "Country": "PK",
+    "City": "Amirabad",
+    "Longitude": "73.09078",
+    "Latitude": "34.18729"
+  },
+  {
+    "Id": "febdc6f0-65d1-433b-9d63-47858c122649",
+    "Country": "PK",
+    "City": "Kakad Wari Dir Upper",
+    "Longitude": "72.07295",
+    "Latitude": "34.99798"
+  },
+  {
+    "Id": "2a25164e-6f80-432a-8440-f01c95741e7b",
+    "Country": "PK",
+    "City": "Hattian Bala",
+    "Longitude": "73.7432",
+    "Latitude": "34.1691"
+  },
+  {
+    "Id": "4d33ae51-d0db-48ab-aae4-e766a2152223",
+    "Country": "PK",
+    "City": "Ashanagro Koto",
+    "Longitude": "72.24517",
+    "Latitude": "34.10773"
+  },
+  {
+    "Id": "f4cccc62-30c6-4165-a464-f9fd6b8d397e",
+    "Country": "PK",
+    "City": "Mughalabad",
+    "Longitude": "73.42545",
+    "Latitude": "33.89731"
+  }
+]
