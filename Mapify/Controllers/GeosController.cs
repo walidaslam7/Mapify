@@ -15,7 +15,7 @@ public class GeosController : ControllerBase
     /// <summary>
     /// Returns Cities Geo Information as per PageSize.
     /// </summary>
-    /// <returns>A newly created TodoItem</returns>
+    /// <returns>Retrieve All Geos</returns>
     /// <response code="200">Returns the Geo codes as Per request</response>
     /// <response code="500">If the request failed</response>
     [HttpGet]
