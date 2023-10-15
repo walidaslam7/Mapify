@@ -8,7 +8,7 @@
 <img alt="Github License" src="https://img.shields.io/github/license/walidaslam7/Mapify" />
 <br/>
 
-This solution provides a Geocoding API for Pakistan cities, which allows developers to easily retrieve the latitude and longitude coordinates of a given city. The API is designed to be simple and easy to use, and it can be integrated into any web or mobile application. In addition to the Geocoding API for Pakistan cities, this solution also contains World Cities JSON files, which provide latitude and longitude coordinates for cities around the world.
+This solution offers a Geocoding API tailored for Pakistani cities, enabling developers to effortlessly fetch the latitude and longitude coordinates of a specified city. The API boasts simplicity and user-friendliness, making it seamless to integrate into both web and mobile applications. Beyond the Geocoding API for Pakistani cities, this solution also includes JSON files for World Cities, furnishing latitude and longitude coordinates for cities globally.
 
 ## Technologies
 
@@ -24,25 +24,25 @@ This solution provides a Geocoding API for Pakistan cities, which allows develop
 
 - Clone the repository to your local machine.
 - Open the project in Visual Studio or any other compatible IDE.
-- Reach out to solution directory by using ``` cd Mapify ```
+- Reach out to the solution directory by using ``` cd Mapify ```
 - Build and run by using ``` dotnet run ``` or build the project to install the required dependencies.
 
 ## Database Configuration
 
-The solution is configured to use an Pakistan cities data by default. This ensures that all users will be able to run the solution without needing to set up additional infrastructure (e.g. SQL Server).
+The solution is configured to use Pakistan cities' data by default. This ensures that all users will be able to run the solution without needing to set up additional infrastructure (e.g. SQL Server).
 
 Verify that the DefaultConnection connection string within appsettings.json points to a valid SQL Server instance.
 
-If you want to run the application with World cities JSON file then latest migrations will be applied.
+If you want to run the application with the World Cities JSON file then the latest migrations will be applied.
 
 
 ## Overview
 
-This will contain all entities, Odata handling, exceptions, interfaces, logging, presistence brokers types and logic specific to the solution.
+This will contain all entities, Odata handling, exceptions, interfaces, logging, persistence brokers types, and logic specific to the solution.
 
 ### OData Implementation in .NET WebAPI Application
 
-This repository contains an implementation of OData in a .NET WebAPI application using the ODataConventionModelBuilder. OData is a standardized protocol for creating and consuming RESTful APIs that expose data as resources and support advanced querying capabilities.
+This repository contains an implementation of OData in a .NET WebAPI application using the ```ODataConventionModelBuilder```. OData is a standardized protocol for creating and consuming RESTful APIs that expose data as resources and support advanced querying capabilities.
 
 ### Usage
 To use OData in your WebAPI application, you need to create an instance of ODataConventionModelBuilder and configure it to include the entities you want to expose through OData. The following code snippet shows an example of how to create the EDM model for the GeoLookup entity.
